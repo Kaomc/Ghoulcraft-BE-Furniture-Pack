@@ -1,0 +1,39 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "[Furniture] Ghoulcraft BE xx-xx-xx",
+		"description": "§l§3Ignore the warning! §r- Version: xx-xx-xx",
+		"uuid": "72bf449e-6c4d-4b4f-a0f4-53c97bea15e4",
+		"version": [
+			2,
+			7,
+			21
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "bf92131b-d935-4434-b4be-4fb8d7d4136d",
+			"version": [
+				2,
+				7,
+				21
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"version": [
+				2,
+				7,
+				21
+			],
+			"uuid": "57e80044-40ec-48d3-b36a-ab6c508b9d10"
+		}
+	]
+}

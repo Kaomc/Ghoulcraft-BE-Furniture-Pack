@@ -1,0 +1,5530 @@
+{
+	"file_path": "C:\\Users\\gabri\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs\\[Furniture] Ghoulcraft BE RP\\textures\\terrain_texture.json",
+	"file_type": "terrain_texture",
+	"format_version": 1,
+	"file_uuid": "4b863a10_c2e1_4b1f_b28b_624ba9a3b4c9",
+	"file_version": 89,
+	"cache_content": {
+		"children": [
+			{
+				"data": "bridgeRP",
+				"key": "resource_pack_name"
+			},
+			{
+				"data": "atlas.terrain",
+				"key": "texture_name"
+			},
+			{
+				"data": "8",
+				"key": "padding"
+			},
+			{
+				"data": "4",
+				"key": "num_mip_levels"
+			},
+			{
+				"open": {
+					"resource_pack_name": "bridgeRP",
+					"texture_name": "atlas.terrain",
+					"padding": 8,
+					"num_mip_levels": 4,
+					"texture_data": {
+						"chair1acacia": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_acacia_log"
+							]
+						},
+						"chair2acacia": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_acacia_log"
+							]
+						},
+						"chair3acacia": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_acacia_log"
+							]
+						},
+						"chair4acacia": {
+							"textures": [
+								"textures/block/chair4acacia"
+							]
+						},
+						"chair1birch": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_birch_log"
+							]
+						},
+						"chair2birch": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_birch_log"
+							]
+						},
+						"chair3birch": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_birch_log"
+							]
+						},
+						"chair4birch": {
+							"textures": [
+								"textures/block/chair4birch"
+							]
+						},
+						"chair1darkoak": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_dark_oak_log"
+							]
+						},
+						"chair2darkoak": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_dark_oak_log"
+							]
+						},
+						"chair3darkoak": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_dark_oak_log"
+							]
+						},
+						"chair4darkoak": {
+							"textures": [
+								"textures/block/chair4darkoak"
+							]
+						},
+						"chair1jungle": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_jungle_log"
+							]
+						},
+						"chair2jungle": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_jungle_log"
+							]
+						},
+						"chair3jungle": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_jungle_log"
+							]
+						},
+						"chair4jungle": {
+							"textures": [
+								"textures/block/chair4jungle"
+							]
+						},
+						"chair1oak": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_oak_log"
+							]
+						},
+						"chair2oak": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_oak_log"
+							]
+						},
+						"chair3oak": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_oak_log"
+							]
+						},
+						"chair4oak": {
+							"textures": [
+								"textures/block/chair4oak"
+							]
+						},
+						"chair1spruce": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_spruce_log"
+							]
+						},
+						"chair2spruce": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_spruce_log"
+							]
+						},
+						"chair3spruce": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_spruce_log"
+							]
+						},
+						"chair4spruce": {
+							"textures": [
+								"textures/block/chair4spruce"
+							]
+						},
+						"barstool1acacia": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_acacia_log"
+							]
+						},
+						"barstool2acacia": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_acacia_log"
+							]
+						},
+						"barstool3acacia": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_acacia_log"
+							]
+						},
+						"barstool4acacia": {
+							"textures": [
+								"textures/block/barstool4acacia"
+							]
+						},
+						"barstool1birch": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_birch_log"
+							]
+						},
+						"barstool2birch": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_birch_log"
+							]
+						},
+						"barstool3birch": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_birch_log"
+							]
+						},
+						"barstool4birch": {
+							"textures": [
+								"textures/block/barstool4birch"
+							]
+						},
+						"barstool1darkoak": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_dark_oak_log"
+							]
+						},
+						"barstool2darkoak": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_dark_oak_log"
+							]
+						},
+						"barstool3darkoak": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_dark_oak_log"
+							]
+						},
+						"barstool4darkoak": {
+							"textures": [
+								"textures/block/barstool4darkoak"
+							]
+						},
+						"barstool1jungle": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_jungle_log"
+							]
+						},
+						"barstool2jungle": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_jungle_log"
+							]
+						},
+						"barstool3jungle": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_jungle_log"
+							]
+						},
+						"barstool4jungle": {
+							"textures": [
+								"textures/block/barstool4jungle"
+							]
+						},
+						"barstool1oak": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_oak_log"
+							]
+						},
+						"barstool2oak": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_oak_log"
+							]
+						},
+						"barstool3oak": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_oak_log"
+							]
+						},
+						"barstool4oak": {
+							"textures": [
+								"textures/block/barstool4oak"
+							]
+						},
+						"barstool1spruce": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_spruce_log"
+							]
+						},
+						"barstool2spruce": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_spruce_log"
+							]
+						},
+						"barstool3spruce": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_spruce_log"
+							]
+						},
+						"barstool4spruce": {
+							"textures": [
+								"textures/block/barstool4spruce"
+							]
+						},
+						"counter_spruce1": {
+							"textures": [
+								"textures/block/counter_spruce1"
+							]
+						},
+						"counter_spruce2": {
+							"textures": [
+								"textures/block/counter_spruce2"
+							]
+						},
+						"counter_acacia": {
+							"textures": [
+								"textures/block/counter_acacia"
+							]
+						},
+						"counter_birch": {
+							"textures": [
+								"textures/block/counter_birch"
+							]
+						},
+						"counter_dark": {
+							"textures": [
+								"textures/block/counter_dark"
+							]
+						},
+						"counter_jungle": {
+							"textures": [
+								"textures/block/counter_jungle"
+							]
+						},
+						"counter_oak": {
+							"textures": [
+								"textures/block/counter_oak"
+							]
+						},
+						"counter_spruce": {
+							"textures": [
+								"textures/block/counter_spruce"
+							]
+						},
+						"cabinet_acacia1": {
+							"textures": [
+								"textures/block/cabinet_acacia1"
+							]
+						},
+						"cabinet_birch1": {
+							"textures": [
+								"textures/block/cabinet_birch1"
+							]
+						},
+						"cabinet_dark1": {
+							"textures": [
+								"textures/block/cabinet_dark1"
+							]
+						},
+						"cabinet_jungle1": {
+							"textures": [
+								"textures/block/cabinet_jungle1"
+							]
+						},
+						"cabinet_oak1": {
+							"textures": [
+								"textures/block/cabinet_oak1"
+							]
+						},
+						"cabinet_spruce1": {
+							"textures": [
+								"textures/block/cabinet_spruce1"
+							]
+						},
+						"easel_acacia": {
+							"textures": "textures/block/easel_acacia"
+						},
+						"utah_teapot": {
+							"textures": [
+								"textures/block/utah_teapot"
+							]
+						},
+						"bohopillow_wicker": {
+							"textures": [
+								"textures/block/bohopillow_wicker"
+							]
+						},
+						"bohopillow_red": {
+							"textures": [
+								"textures/block/bohopillow_red"
+							]
+						},
+						"bohopillow_purple": {
+							"textures": [
+								"textures/block/bohopillow_purple"
+							]
+						},
+						"bohopillow_lime": {
+							"textures": [
+								"textures/block/bohopillow_lime"
+							]
+						},
+						"bohopillow_blue": {
+							"textures": [
+								"textures/block/bohopillow_blue"
+							]
+						},
+						"bohopillow_pink": {
+							"textures": [
+								"textures/block/bohopillow_pink"
+							]
+						},
+						"drawers_acacia": {
+							"textures": [
+								"textures/block/drawers_acacia"
+							]
+						},
+						"drawers_birch": {
+							"textures": [
+								"textures/block/drawers_birch"
+							]
+						},
+						"drawers_dark": {
+							"textures": [
+								"textures/block/drawers_dark"
+							]
+						},
+						"drawers_jungle": {
+							"textures": [
+								"textures/block/drawers_jungle"
+							]
+						},
+						"drawers_oak": {
+							"textures": [
+								"textures/block/drawers_oak"
+							]
+						},
+						"drawers_spruce": {
+							"textures": [
+								"textures/block/drawers_spruce"
+							]
+						},
+						"dresser_birch": {
+							"textures": [
+								"textures/block/dresser_birch"
+							]
+						},
+						"gamerchair_blue": {
+							"textures": [
+								"textures/block/gamerchair_blue"
+							]
+						},
+						"shelf1_acacia": {
+							"textures": [
+								"textures/block/shelf1_acacia"
+							]
+						},
+						"shelf1_birch": {
+							"textures": [
+								"textures/block/shelf1_birch"
+							]
+						},
+						"shelf1_dark": {
+							"textures": [
+								"textures/block/shelf1_dark"
+							]
+						},
+						"shelf1_jungle": {
+							"textures": [
+								"textures/block/shelf1_jungle"
+							]
+						},
+						"shelf1_oak": {
+							"textures": [
+								"textures/block/shelf1_oak"
+							]
+						},
+						"shelf1_spruce": {
+							"textures": [
+								"textures/block/shelf1_spruce"
+							]
+						},
+						"shelf2_acacia": {
+							"textures": [
+								"textures/block/shelf2_acacia"
+							]
+						},
+						"shelf2_birch": {
+							"textures": [
+								"textures/block/shelf2_birch"
+							]
+						},
+						"shelf2_dark": {
+							"textures": [
+								"textures/block/shelf2_dark"
+							]
+						},
+						"shelf2_jungle": {
+							"textures": [
+								"textures/block/shelf2_jungle"
+							]
+						},
+						"shelf2_oak": {
+							"textures": [
+								"textures/block/shelf2_oak"
+							]
+						},
+						"shelf2_spruce": {
+							"textures": [
+								"textures/block/shelf2_spruce"
+							]
+						},
+						"shelf0_acacia": {
+							"textures": [
+								"textures/block/shelf0_acacia"
+							]
+						},
+						"shelf0_birch": {
+							"textures": [
+								"textures/block/shelf0_birch"
+							]
+						},
+						"shelf0_dark": {
+							"textures": [
+								"textures/block/shelf0_dark"
+							]
+						},
+						"shelf0_jungle": {
+							"textures": [
+								"textures/block/shelf0_jungle"
+							]
+						},
+						"shelf0_oak": {
+							"textures": [
+								"textures/block/shelf0_oak"
+							]
+						},
+						"shelf0_spruce": {
+							"textures": [
+								"textures/block/shelf0_spruce"
+							]
+						},
+						"shelf0a_acacia": {
+							"textures": [
+								"textures/block/shelf0a_acacia"
+							]
+						},
+						"shelf0b_acacia": {
+							"textures": [
+								"textures/block/shelf0b_acacia"
+							]
+						},
+						"shelf0a_birch": {
+							"textures": [
+								"textures/block/shelf0a_birch"
+							]
+						},
+						"shelf0b_birch": {
+							"textures": [
+								"textures/block/shelf0b_birch"
+							]
+						},
+						"shelf0a_dark": {
+							"textures": [
+								"textures/block/shelf0a_dark"
+							]
+						},
+						"shelf0a_jungle": {
+							"textures": [
+								"textures/block/shelf0a_jungle"
+							]
+						},
+						"shelf0a_oak": {
+							"textures": [
+								"textures/block/shelf0a_oak"
+							]
+						},
+						"shelf0a_spruce": {
+							"textures": [
+								"textures/block/shelf0a_spruce"
+							]
+						},
+						"grandclock": {
+							"textures": [
+								"textures/block/grandclock"
+							]
+						},
+						"tallshelf_acacia": {
+							"textures": [
+								"textures/block/tallshelf_acacia"
+							]
+						},
+						"tallshelf_birch": {
+							"textures": [
+								"textures/block/tallshelf_birch"
+							]
+						},
+						"tallshelf_dark": {
+							"textures": [
+								"textures/block/tallshelf_dark"
+							]
+						},
+						"tallshelf_jungle": {
+							"textures": [
+								"textures/block/tallshelf_jungle"
+							]
+						},
+						"tallshelf_oak": {
+							"textures": [
+								"textures/block/tallshelf_oak"
+							]
+						},
+						"tallshelf_spruce": {
+							"textures": [
+								"textures/block/tallshelf_spruce"
+							]
+						},
+						"clothesline": {
+							"textures": [
+								"textures/block/clothesline"
+							]
+						},
+						"logbed_acacia": {
+							"textures": [
+								"textures/block/logbed_acacia"
+							]
+						},
+						"logbed_birch": {
+							"textures": [
+								"textures/block/logbed_birch"
+							]
+						},
+						"logbed_dark": {
+							"textures": [
+								"textures/block/logbed_dark"
+							]
+						},
+						"logbed_jungle": {
+							"textures": [
+								"textures/block/logbed_jungle"
+							]
+						},
+						"logbed_oak": {
+							"textures": [
+								"textures/block/logbed_oak"
+							]
+						},
+						"logbed_spruce": {
+							"textures": [
+								"textures/block/logbed_spruce"
+							]
+						},
+						"tablecloth_black": {
+							"textures": [
+								"textures/block/plaidwool/plaid_black"
+							]
+						},
+						"tablecloth_blue": {
+							"textures": [
+								"textures/block/plaidwool/plaid_blue"
+							]
+						},
+						"tablecloth_brown": {
+							"textures": [
+								"textures/block/plaidwool/plaid_brown"
+							]
+						},
+						"windowseat_birch_black": {
+							"textures": [
+								"textures/block/windowseat_birch_black"
+							]
+						},
+						"windowseat_birch_blue": {
+							"textures": [
+								"textures/block/windowseat_birch_blue"
+							]
+						},
+						"windowseat_birch_brown": {
+							"textures": [
+								"textures/block/windowseat_birch_brown"
+							]
+						},
+						"windowseat_birch_cyan": {
+							"textures": [
+								"textures/block/windowseat_birch_cyan"
+							]
+						},
+						"windowseat_birch_gray": {
+							"textures": [
+								"textures/block/windowseat_birch_gray"
+							]
+						},
+						"windowseat_birch_green": {
+							"textures": [
+								"textures/block/windowseat_birch_green"
+							]
+						},
+						"windowseat_birch_light_blue": {
+							"textures": [
+								"textures/block/windowseat_birch_light_blue"
+							]
+						},
+						"windowseat_birch_light_gray": {
+							"textures": [
+								"textures/block/windowseat_birch_light_gray"
+							]
+						},
+						"windowseat_birch_lime": {
+							"textures": [
+								"textures/block/windowseat_birch_lime"
+							]
+						},
+						"windowseat_birch_magenta": {
+							"textures": [
+								"textures/block/windowseat_birch_magenta"
+							]
+						},
+						"windowseat_birch_orange": {
+							"textures": [
+								"textures/block/windowseat_birch_orange"
+							]
+						},
+						"windowseat_birch_pink": {
+							"textures": [
+								"textures/block/windowseat_birch_pink"
+							]
+						},
+						"windowseat_birch_purple": {
+							"textures": [
+								"textures/block/windowseat_birch_purple"
+							]
+						},
+						"windowseat_birch_red": {
+							"textures": [
+								"textures/block/windowseat_birch_red"
+							]
+						},
+						"windowseat_birch_white": {
+							"textures": [
+								"textures/block/windowseat_birch_white"
+							]
+						},
+						"windowseat_birch_yellow": {
+							"textures": [
+								"textures/block/windowseat_birch_yellow"
+							]
+						},
+						"tallcabinet_acacia": {
+							"textures": [
+								"textures/block/tallcabinet_acacia"
+							]
+						},
+						"tallcabinet_birch": {
+							"textures": [
+								"textures/block/tallcabinet_birch"
+							]
+						},
+						"tallcabinet_jungle": {
+							"textures": [
+								"textures/block/tallcabinet_jungle"
+							]
+						},
+						"tallcabinet_oak": {
+							"textures": [
+								"textures/block/tallcabinet_oak"
+							]
+						},
+						"tallcabinet_spruce": {
+							"textures": [
+								"textures/block/tallcabinet_spruce"
+							]
+						},
+						"bunkmatch_acacia": {
+							"textures": [
+								"textures/block/bunkmatch_acacia"
+							]
+						},
+						"bunkmatch_birch": {
+							"textures": [
+								"textures/block/bunkmatch_birch"
+							]
+						},
+						"bunkmatch_dark": {
+							"textures": [
+								"textures/block/bunkmatch_dark"
+							]
+						},
+						"bunkmatch_jungle": {
+							"textures": [
+								"textures/block/bunkmatch_jungle"
+							]
+						},
+						"bunkmatch_oak": {
+							"textures": [
+								"textures/block/bunkmatch_oak"
+							]
+						},
+						"bunkmatch_spruce": {
+							"textures": [
+								"textures/block/bunkmatch_spruce"
+							]
+						},
+						"windowseat_dark_black": {
+							"textures": [
+								"textures/block/windowseat_dark_black"
+							]
+						},
+						"windowseat_dark_blue": {
+							"textures": [
+								"textures/block/windowseat_dark_blue"
+							]
+						},
+						"windowseat_dark_brown": {
+							"textures": [
+								"textures/block/windowseat_dark_brown"
+							]
+						},
+						"windowseat_dark_cyan": {
+							"textures": [
+								"textures/block/windowseat_dark_cyan"
+							]
+						},
+						"windowseat_dark_gray": {
+							"textures": [
+								"textures/block/windowseat_dark_gray"
+							]
+						},
+						"windowseat_dark_green": {
+							"textures": [
+								"textures/block/windowseat_dark_green"
+							]
+						},
+						"windowseat_dark_light_blue": {
+							"textures": [
+								"textures/block/windowseat_dark_light_blue"
+							]
+						},
+						"windowseat_dark_light_gray": {
+							"textures": [
+								"textures/block/windowseat_dark_light_gray"
+							]
+						},
+						"windowseat_dark_lime": {
+							"textures": [
+								"textures/block/windowseat_dark_lime"
+							]
+						},
+						"windowseat_dark_magenta": {
+							"textures": [
+								"textures/block/windowseat_dark_magenta"
+							]
+						},
+						"windowseat_dark_orange": {
+							"textures": [
+								"textures/block/windowseat_dark_orange"
+							]
+						},
+						"windowseat_dark_pink": {
+							"textures": [
+								"textures/block/windowseat_dark_pink"
+							]
+						},
+						"windowseat_dark_purple": {
+							"textures": [
+								"textures/block/windowseat_dark_purple"
+							]
+						},
+						"windowseat_dark_red": {
+							"textures": [
+								"textures/block/windowseat_dark_red"
+							]
+						},
+						"windowseat_dark_white": {
+							"textures": [
+								"textures/block/windowseat_dark_white"
+							]
+						},
+						"windowseat_dark_yellow": {
+							"textures": [
+								"textures/block/windowseat_dark_yellow"
+							]
+						},
+						"windowseat_acacia_black": {
+							"textures": [
+								"textures/block/windowseat_acacia_black"
+							]
+						},
+						"windowseat_acacia_blue": {
+							"textures": [
+								"textures/block/windowseat_acacia_blue"
+							]
+						},
+						"windowseat_acacia_cyan": {
+							"textures": [
+								"textures/block/windowseat_acacia_cyan"
+							]
+						},
+						"windowseat_acacia_brown": {
+							"textures": [
+								"textures/block/windowseat_acacia_brown"
+							]
+						},
+						"windowseat_acacia_gray": {
+							"textures": [
+								"textures/block/windowseat_acacia_gray"
+							]
+						},
+						"windowseat_acacia_green": {
+							"textures": [
+								"textures/block/windowseat_acacia_green"
+							]
+						},
+						"windowseat_acacia_light_blue": {
+							"textures": [
+								"textures/block/windowseat_acacia_light_blue"
+							]
+						},
+						"windowseat_acacia_light_gray": {
+							"textures": [
+								"textures/block/windowseat_acacia_light_gray"
+							]
+						},
+						"windowseat_acacia_lime": {
+							"textures": [
+								"textures/block/windowseat_acacia_lime"
+							]
+						},
+						"windowseat_acacia_magenta": {
+							"textures": [
+								"textures/block/windowseat_acacia_magenta"
+							]
+						},
+						"windowseat_acacia_orange": {
+							"textures": [
+								"textures/block/windowseat_acacia_orange"
+							]
+						},
+						"windowseat_acacia_pink": {
+							"textures": [
+								"textures/block/windowseat_acacia_pink"
+							]
+						},
+						"windowseat_acacia_purple": {
+							"textures": [
+								"textures/block/windowseat_acacia_purple"
+							]
+						},
+						"windowseat_acacia_red": {
+							"textures": [
+								"textures/block/windowseat_acacia_red"
+							]
+						},
+						"windowseat_acacia_white": {
+							"textures": [
+								"textures/block/windowseat_acacia_white"
+							]
+						},
+						"windowseat_acacia_yellow": {
+							"textures": [
+								"textures/block/windowseat_acacia_yellow"
+							]
+						},
+						"windowseat_jungle_black": {
+							"textures": [
+								"textures/block/windowseat_jungle_black"
+							]
+						},
+						"windowseat_jungle_blue": {
+							"textures": [
+								"textures/block/windowseat_jungle_blue"
+							]
+						},
+						"windowseat_jungle_cyan": {
+							"textures": [
+								"textures/block/windowseat_jungle_cyan"
+							]
+						},
+						"windowseat_jungle_brown": {
+							"textures": [
+								"textures/block/windowseat_jungle_brown"
+							]
+						},
+						"windowseat_jungle_gray": {
+							"textures": [
+								"textures/block/windowseat_jungle_gray"
+							]
+						},
+						"windowseat_jungle_green": {
+							"textures": [
+								"textures/block/windowseat_jungle_green"
+							]
+						},
+						"windowseat_jungle_light_blue": {
+							"textures": [
+								"textures/block/windowseat_jungle_light_blue"
+							]
+						},
+						"windowseat_jungle_light_gray": {
+							"textures": [
+								"textures/block/windowseat_jungle_light_gray"
+							]
+						},
+						"windowseat_jungle_lime": {
+							"textures": [
+								"textures/block/windowseat_jungle_lime"
+							]
+						},
+						"windowseat_jungle_magenta": {
+							"textures": [
+								"textures/block/windowseat_jungle_magenta"
+							]
+						},
+						"windowseat_jungle_orange": {
+							"textures": [
+								"textures/block/windowseat_jungle_orange"
+							]
+						},
+						"windowseat_jungle_pink": {
+							"textures": [
+								"textures/block/windowseat_jungle_pink"
+							]
+						},
+						"windowseat_jungle_purple": {
+							"textures": [
+								"textures/block/windowseat_jungle_purple"
+							]
+						},
+						"windowseat_jungle_red": {
+							"textures": [
+								"textures/block/windowseat_jungle_red"
+							]
+						},
+						"windowseat_jungle_white": {
+							"textures": [
+								"textures/block/windowseat_jungle_white"
+							]
+						},
+						"windowseat_jungle_yellow": {
+							"textures": [
+								"textures/block/windowseat_jungle_yellow"
+							]
+						},
+						"windowseat_oak_black": {
+							"textures": [
+								"textures/block/windowseat_oak_black"
+							]
+						},
+						"windowseat_oak_blue": {
+							"textures": [
+								"textures/block/windowseat_oak_blue"
+							]
+						},
+						"windowseat_oak_cyan": {
+							"textures": [
+								"textures/block/windowseat_oak_cyan"
+							]
+						},
+						"windowseat_oak_brown": {
+							"textures": [
+								"textures/block/windowseat_oak_brown"
+							]
+						},
+						"windowseat_oak_gray": {
+							"textures": [
+								"textures/block/windowseat_oak_gray"
+							]
+						},
+						"windowseat_oak_green": {
+							"textures": [
+								"textures/block/windowseat_oak_green"
+							]
+						},
+						"windowseat_oak_light_blue": {
+							"textures": [
+								"textures/block/windowseat_oak_light_blue"
+							]
+						},
+						"windowseat_oak_light_gray": {
+							"textures": [
+								"textures/block/windowseat_oak_light_gray"
+							]
+						},
+						"windowseat_oak_lime": {
+							"textures": [
+								"textures/block/windowseat_oak_lime"
+							]
+						},
+						"windowseat_oak_magenta": {
+							"textures": [
+								"textures/block/windowseat_oak_magenta"
+							]
+						},
+						"windowseat_oak_orange": {
+							"textures": [
+								"textures/block/windowseat_oak_orange"
+							]
+						},
+						"windowseat_oak_pink": {
+							"textures": [
+								"textures/block/windowseat_oak_pink"
+							]
+						},
+						"windowseat_oak_purple": {
+							"textures": [
+								"textures/block/windowseat_oak_purple"
+							]
+						},
+						"windowseat_oak_red": {
+							"textures": [
+								"textures/block/windowseat_oak_red"
+							]
+						},
+						"windowseat_oak_white": {
+							"textures": [
+								"textures/block/windowseat_oak_white"
+							]
+						},
+						"windowseat_oak_yellow": {
+							"textures": [
+								"textures/block/windowseat_oak_yellow"
+							]
+						},
+						"windowseat_spruce_black": {
+							"textures": [
+								"textures/block/windowseat_spruce_black"
+							]
+						},
+						"windowseat_spruce_blue": {
+							"textures": [
+								"textures/block/windowseat_spruce_blue"
+							]
+						},
+						"windowseat_spruce_brown": {
+							"textures": [
+								"textures/block/windowseat_spruce_brown"
+							]
+						},
+						"windowseat_spruce_cyan": {
+							"textures": [
+								"textures/block/windowseat_spruce_cyan"
+							]
+						},
+						"windowseat_spruce_gray": {
+							"textures": [
+								"textures/block/windowseat_spruce_gray"
+							]
+						},
+						"windowseat_spruce_green": {
+							"textures": [
+								"textures/block/windowseat_spruce_green"
+							]
+						},
+						"windowseat_spruce_light_blue": {
+							"textures": [
+								"textures/block/windowseat_spruce_light_blue"
+							]
+						},
+						"windowseat_spruce_light_gray": {
+							"textures": [
+								"textures/block/windowseat_spruce_light_gray"
+							]
+						},
+						"windowseat_spruce_lime": {
+							"textures": [
+								"textures/block/windowseat_spruce_lime"
+							]
+						},
+						"windowseat_spruce_magenta": {
+							"textures": [
+								"textures/block/windowseat_spruce_magenta"
+							]
+						},
+						"windowseat_spruce_orange": {
+							"textures": [
+								"textures/block/windowseat_spruce_orange"
+							]
+						},
+						"windowseat_spruce_pink": {
+							"textures": [
+								"textures/block/windowseat_spruce_pink"
+							]
+						},
+						"windowseat_spruce_purple": {
+							"textures": [
+								"textures/block/windowseat_spruce_purple"
+							]
+						},
+						"windowseat_spruce_red": {
+							"textures": [
+								"textures/block/windowseat_spruce_red"
+							]
+						},
+						"windowseat_spruce_white": {
+							"textures": [
+								"textures/block/windowseat_spruce_white"
+							]
+						},
+						"windowseat_spruce_yellow": {
+							"textures": [
+								"textures/block/windowseat_spruce_yellow"
+							]
+						},
+						"bed_iron_black": {
+							"textures": [
+								"textures/block/bed_iron_black"
+							]
+						},
+						"bed_iron_blue": {
+							"textures": [
+								"textures/block/bed_iron_blue"
+							]
+						},
+						"bed_iron_brown": {
+							"textures": [
+								"textures/block/bed_iron_brown"
+							]
+						},
+						"bed_iron_cyan": {
+							"textures": [
+								"textures/block/bed_iron_cyan"
+							]
+						},
+						"bed_iron_gray": {
+							"textures": [
+								"textures/block/bed_iron_gray"
+							]
+						},
+						"bed_iron_green": {
+							"textures": [
+								"textures/block/bed_iron_green"
+							]
+						},
+						"bed_iron_light_blue": {
+							"textures": [
+								"textures/block/bed_iron_light_blue"
+							]
+						},
+						"bed_iron_light_gray": {
+							"textures": [
+								"textures/block/bed_iron_light_gray"
+							]
+						},
+						"bed_iron_lime": {
+							"textures": [
+								"textures/block/bed_iron_lime"
+							]
+						},
+						"bed_iron_orange": {
+							"textures": [
+								"textures/block/bed_iron_orange"
+							]
+						},
+						"bed_iron_magenta": {
+							"textures": [
+								"textures/block/bed_iron_magenta"
+							]
+						},
+						"bed_iron_pink": {
+							"textures": [
+								"textures/block/bed_iron_pink"
+							]
+						},
+						"bed_iron_purple": {
+							"textures": [
+								"textures/block/bed_iron_purple"
+							]
+						},
+						"bed_iron_red": {
+							"textures": [
+								"textures/block/bed_iron_red"
+							]
+						},
+						"bed_iron_white": {
+							"textures": [
+								"textures/block/bed_iron_white"
+							]
+						},
+						"bed_iron_yellow": {
+							"textures": [
+								"textures/block/bed_iron_yellow"
+							]
+						},
+						"easel_birch": {
+							"textures": [
+								"textures/block/easel_birch"
+							]
+						},
+						"easel_dark": {
+							"textures": [
+								"textures/block/easel_dark"
+							]
+						},
+						"easel_jungle": {
+							"textures": [
+								"textures/block/easel_jungle"
+							]
+						},
+						"easel_oak": {
+							"textures": [
+								"textures/block/easel_oak"
+							]
+						},
+						"easel_spruce": {
+							"textures": [
+								"textures/block/easel_spruce"
+							]
+						},
+						"gardenbench": {
+							"textures": [
+								"textures/block/gardenbench"
+							]
+						},
+						"pallete": {
+							"textures": [
+								"textures/block/pallete"
+							]
+						},
+						"faerielights": {
+							"textures": [
+								"textures/block/faerielights"
+							]
+						},
+						"canmatch_acacia_black": {
+							"textures": [
+								"textures/block/canmatch_acacia_black"
+							]
+						},
+						"canmatch_acacia_blue": {
+							"textures": [
+								"textures/block/canmatch_acacia_blue"
+							]
+						},
+						"crib_black": {
+							"textures": [
+								"textures/block/crib_black"
+							]
+						},
+						"crib_blue": {
+							"textures": [
+								"textures/block/crib_blue"
+							]
+						},
+						"crib_cyan": {
+							"textures": [
+								"textures/block/crib_cyan"
+							]
+						},
+						"crib_brown": {
+							"textures": [
+								"textures/block/crib_brown"
+							]
+						},
+						"crib_gray": {
+							"textures": [
+								"textures/block/crib_gray"
+							]
+						},
+						"crib_green": {
+							"textures": [
+								"textures/block/crib_green"
+							]
+						},
+						"crib_lblue": {
+							"textures": [
+								"textures/block/crib_lblue"
+							]
+						},
+						"crib_lgray": {
+							"textures": [
+								"textures/block/crib_lgray"
+							]
+						},
+						"crib_lime": {
+							"textures": [
+								"textures/block/crib_lime"
+							]
+						},
+						"crib_magenta": {
+							"textures": [
+								"textures/block/crib_magenta"
+							]
+						},
+						"crib_orange": {
+							"textures": [
+								"textures/block/crib_orange"
+							]
+						},
+						"crib_pink": {
+							"textures": [
+								"textures/block/crib_pink"
+							]
+						},
+						"crib_purple": {
+							"textures": [
+								"textures/block/crib_purple"
+							]
+						},
+						"crib_red": {
+							"textures": [
+								"textures/block/crib_red"
+							]
+						},
+						"crib_white": {
+							"textures": [
+								"textures/block/crib_white"
+							]
+						},
+						"crib_yellow": {
+							"textures": [
+								"textures/block/crib_yellow"
+							]
+						},
+						"directorchair_black": {
+							"textures": [
+								"textures/block/directorchair_black"
+							]
+						},
+						"directorchair_blue": {
+							"textures": [
+								"textures/block/directorchair_blue"
+							]
+						},
+						"directorchair_cyan": {
+							"textures": [
+								"textures/block/directorchair_cyan"
+							]
+						},
+						"directorchair_brown": {
+							"textures": [
+								"textures/block/directorchair_brown"
+							]
+						},
+						"directorchair_gray": {
+							"textures": [
+								"textures/block/directorchair_gray"
+							]
+						},
+						"directorchair_green": {
+							"textures": [
+								"textures/block/directorchair_green"
+							]
+						},
+						"directorchair_light_blue": {
+							"textures": [
+								"textures/block/directorchair_light_blue"
+							]
+						},
+						"directorchair_light_gray": {
+							"textures": [
+								"textures/block/directorchair_light_gray"
+							]
+						},
+						"directorchair_lime": {
+							"textures": [
+								"textures/block/directorchair_lime"
+							]
+						},
+						"directorchair_magenta": {
+							"textures": [
+								"textures/block/directorchair_magenta"
+							]
+						},
+						"directorchair_orange": {
+							"textures": [
+								"textures/block/directorchair_orange"
+							]
+						},
+						"directorchair_pink": {
+							"textures": [
+								"textures/block/directorchair_pink"
+							]
+						},
+						"directorchair_purple": {
+							"textures": [
+								"textures/block/directorchair_purple"
+							]
+						},
+						"directorchair_red": {
+							"textures": [
+								"textures/block/directorchair_red"
+							]
+						},
+						"directorchair_white": {
+							"textures": [
+								"textures/block/directorchair_white"
+							]
+						},
+						"directorchair_yellow": {
+							"textures": [
+								"textures/block/directorchair_yellow"
+							]
+						},
+						"clothesline4": {
+							"textures": [
+								"textures/block/clothesline4"
+							]
+						},
+						"sofa_black1": {
+							"textures": [
+								"textures/block/sofa_black1"
+							]
+						},
+						"sofa_blue1": {
+							"textures": [
+								"textures/block/sofa_blue1"
+							]
+						},
+						"sofa_cyan1": {
+							"textures": [
+								"textures/block/sofa_cyan1"
+							]
+						},
+						"sofa_brown1": {
+							"textures": [
+								"textures/block/sofa_brown1"
+							]
+						},
+						"sofa_gray1": {
+							"textures": [
+								"textures/block/sofa_gray1"
+							]
+						},
+						"sofa_green1": {
+							"textures": [
+								"textures/block/sofa_green1"
+							]
+						},
+						"sofa_lblue1": {
+							"textures": [
+								"textures/block/sofa_lblue1"
+							]
+						},
+						"sofa_lgray1": {
+							"textures": [
+								"textures/block/sofa_lgray1"
+							]
+						},
+						"sofa_lime1": {
+							"textures": [
+								"textures/block/sofa_lime1"
+							]
+						},
+						"sofa_magenta1": {
+							"textures": [
+								"textures/block/sofa_magenta1"
+							]
+						},
+						"sofa_orange1": {
+							"textures": [
+								"textures/block/sofa_orange1"
+							]
+						},
+						"sofa_pink1": {
+							"textures": [
+								"textures/block/sofa_pink1"
+							]
+						},
+						"sofa_purple1": {
+							"textures": [
+								"textures/block/sofa_purple1"
+							]
+						},
+						"sofa_red1": {
+							"textures": [
+								"textures/block/sofa_red1"
+							]
+						},
+						"sofa_white1": {
+							"textures": [
+								"textures/block/sofa_white1"
+							]
+						},
+						"sofa_yellow1": {
+							"textures": [
+								"textures/block/sofa_yellow1"
+							]
+						},
+						"sofa_black2": {
+							"textures": [
+								"textures/block/sofa_black2"
+							]
+						},
+						"sofa_blue2": {
+							"textures": [
+								"textures/block/sofa_blue2"
+							]
+						},
+						"sofa_cyan2": {
+							"textures": [
+								"textures/block/sofa_cyan2"
+							]
+						},
+						"sofa_brown2": {
+							"textures": [
+								"textures/block/sofa_brown2"
+							]
+						},
+						"sofa_gray2": {
+							"textures": [
+								"textures/block/sofa_gray2"
+							]
+						},
+						"sofa_green2": {
+							"textures": [
+								"textures/block/sofa_green2"
+							]
+						},
+						"sofa_lblue2": {
+							"textures": [
+								"textures/block/sofa_lblue2"
+							]
+						},
+						"sofa_lgray2": {
+							"textures": [
+								"textures/block/sofa_lgray2"
+							]
+						},
+						"sofa_lime2": {
+							"textures": [
+								"textures/block/sofa_lime2"
+							]
+						},
+						"sofa_magenta2": {
+							"textures": [
+								"textures/block/sofa_magenta2"
+							]
+						},
+						"sofa_orange2": {
+							"textures": [
+								"textures/block/sofa_orange2"
+							]
+						},
+						"sofa_pink2": {
+							"textures": [
+								"textures/block/sofa_pink2"
+							]
+						},
+						"sofa_purple2": {
+							"textures": [
+								"textures/block/sofa_purple2"
+							]
+						},
+						"sofa_red2": {
+							"textures": [
+								"textures/block/sofa_red2"
+							]
+						},
+						"sofa_white2": {
+							"textures": [
+								"textures/block/sofa_white2"
+							]
+						},
+						"sofa_yellow2": {
+							"textures": [
+								"textures/block/sofa_yellow2"
+							]
+						},
+						"sofa_black3": {
+							"textures": [
+								"textures/block/sofa_black3"
+							]
+						},
+						"sofa_blue3": {
+							"textures": [
+								"textures/block/sofa_blue3"
+							]
+						},
+						"sofa_cyan3": {
+							"textures": [
+								"textures/block/sofa_cyan3"
+							]
+						},
+						"sofa_brown3": {
+							"textures": [
+								"textures/block/sofa_brown3"
+							]
+						},
+						"sofa_gray3": {
+							"textures": [
+								"textures/block/sofa_gray3"
+							]
+						},
+						"sofa_green3": {
+							"textures": [
+								"textures/block/sofa_green3"
+							]
+						},
+						"sofa_lblue3": {
+							"textures": [
+								"textures/block/sofa_lblue3"
+							]
+						},
+						"sofa_lgray3": {
+							"textures": [
+								"textures/block/sofa_lgray3"
+							]
+						},
+						"sofa_lime3": {
+							"textures": [
+								"textures/block/sofa_lime3"
+							]
+						},
+						"sofa_magenta3": {
+							"textures": [
+								"textures/block/sofa_magenta3"
+							]
+						},
+						"sofa_orange3": {
+							"textures": [
+								"textures/block/sofa_orange3"
+							]
+						},
+						"sofa_pink3": {
+							"textures": [
+								"textures/block/sofa_pink3"
+							]
+						},
+						"sofa_purple3": {
+							"textures": [
+								"textures/block/sofa_purple3"
+							]
+						},
+						"sofa_red3": {
+							"textures": [
+								"textures/block/sofa_red3"
+							]
+						},
+						"sofa_white3": {
+							"textures": [
+								"textures/block/sofa_white3"
+							]
+						},
+						"sofa_yellow3": {
+							"textures": [
+								"textures/block/sofa_yellow3"
+							]
+						},
+						"sofa_black4": {
+							"textures": [
+								"textures/block/sofa_black4"
+							]
+						},
+						"sofa_blue4": {
+							"textures": [
+								"textures/block/sofa_blue4"
+							]
+						},
+						"sofa_cyan4": {
+							"textures": [
+								"textures/block/sofa_cyan4"
+							]
+						},
+						"sofa_brown4": {
+							"textures": [
+								"textures/block/sofa_brown4"
+							]
+						},
+						"sofa_gray4": {
+							"textures": [
+								"textures/block/sofa_gray4"
+							]
+						},
+						"sofa_green4": {
+							"textures": [
+								"textures/block/sofa_green4"
+							]
+						},
+						"sofa_lblue4": {
+							"textures": [
+								"textures/block/sofa_lblue4"
+							]
+						},
+						"sofa_lgray4": {
+							"textures": [
+								"textures/block/sofa_lgray4"
+							]
+						},
+						"sofa_lime4": {
+							"textures": [
+								"textures/block/sofa_lime4"
+							]
+						},
+						"sofa_magenta4": {
+							"textures": [
+								"textures/block/sofa_magenta4"
+							]
+						},
+						"sofa_orange4": {
+							"textures": [
+								"textures/block/sofa_orange4"
+							]
+						},
+						"sofa_pink4": {
+							"textures": [
+								"textures/block/sofa_pink4"
+							]
+						},
+						"sofa_purple4": {
+							"textures": [
+								"textures/block/sofa_purple4"
+							]
+						},
+						"sofa_red4": {
+							"textures": [
+								"textures/block/sofa_red4"
+							]
+						},
+						"sofa_white4": {
+							"textures": [
+								"textures/block/sofa_white4"
+							]
+						},
+						"sofa_yellow4": {
+							"textures": [
+								"textures/block/sofa_yellow4"
+							]
+						},
+						"sofa_black5": {
+							"textures": [
+								"textures/block/sofa_black5"
+							]
+						},
+						"sofa_blue5": {
+							"textures": [
+								"textures/block/sofa_blue5"
+							]
+						},
+						"sofa_cyan5": {
+							"textures": [
+								"textures/block/sofa_cyan5"
+							]
+						},
+						"sofa_brown5": {
+							"textures": [
+								"textures/block/sofa_brown5"
+							]
+						},
+						"sofa_gray5": {
+							"textures": [
+								"textures/block/sofa_gray5"
+							]
+						},
+						"sofa_green5": {
+							"textures": [
+								"textures/block/sofa_green5"
+							]
+						},
+						"sofa_lblue5": {
+							"textures": [
+								"textures/block/sofa_lblue5"
+							]
+						},
+						"sofa_lgray5": {
+							"textures": [
+								"textures/block/sofa_lgray5"
+							]
+						},
+						"sofa_lime5": {
+							"textures": [
+								"textures/block/sofa_lime5"
+							]
+						},
+						"sofa_magenta5": {
+							"textures": [
+								"textures/block/sofa_magenta5"
+							]
+						},
+						"sofa_orange5": {
+							"textures": [
+								"textures/block/sofa_orange5"
+							]
+						},
+						"sofa_pink5": {
+							"textures": [
+								"textures/block/sofa_pink5"
+							]
+						},
+						"sofa_purple5": {
+							"textures": [
+								"textures/block/sofa_purple5"
+							]
+						},
+						"sofa_red5": {
+							"textures": [
+								"textures/block/sofa_red5"
+							]
+						},
+						"sofa_white5": {
+							"textures": [
+								"textures/block/sofa_white5"
+							]
+						},
+						"sofa_yellow5": {
+							"textures": [
+								"textures/block/sofa_yellow5"
+							]
+						},
+						"sofa_black6": {
+							"textures": [
+								"textures/block/sofa_black6"
+							]
+						},
+						"sofa_blue6": {
+							"textures": [
+								"textures/block/sofa_blue6"
+							]
+						},
+						"sofa_cyan6": {
+							"textures": [
+								"textures/block/sofa_cyan6"
+							]
+						},
+						"sofa_brown6": {
+							"textures": [
+								"textures/block/sofa_brown6"
+							]
+						},
+						"sofa_gray6": {
+							"textures": [
+								"textures/block/sofa_gray6"
+							]
+						},
+						"sofa_green6": {
+							"textures": [
+								"textures/block/sofa_green6"
+							]
+						},
+						"sofa_lblue6": {
+							"textures": [
+								"textures/block/sofa_lblue6"
+							]
+						},
+						"sofa_lgray6": {
+							"textures": [
+								"textures/block/sofa_lgray6"
+							]
+						},
+						"sofa_lime6": {
+							"textures": [
+								"textures/block/sofa_lime6"
+							]
+						},
+						"sofa_magenta6": {
+							"textures": [
+								"textures/block/sofa_magenta6"
+							]
+						},
+						"sofa_orange6": {
+							"textures": [
+								"textures/block/sofa_orange6"
+							]
+						},
+						"sofa_pink6": {
+							"textures": [
+								"textures/block/sofa_pink6"
+							]
+						},
+						"sofa_purple6": {
+							"textures": [
+								"textures/block/sofa_purple6"
+							]
+						},
+						"sofa_red6": {
+							"textures": [
+								"textures/block/sofa_red6"
+							]
+						},
+						"sofa_white6": {
+							"textures": [
+								"textures/block/sofa_white6"
+							]
+						},
+						"sofa_yellow6": {
+							"textures": [
+								"textures/block/sofa_yellow6"
+							]
+						},
+						"noxbrown": {
+							"textures": [
+								"textures/block/nox/brown_carpet"
+							]
+						},
+						"noxgray": {
+							"textures": [
+								"textures/block/nox/gray_carpet"
+							]
+						},
+						"noxlgray": {
+							"textures": [
+								"textures/block/nox/lgray_carpet"
+							]
+						},
+						"noxlime": {
+							"textures": [
+								"textures/block/nox/lime_carpet"
+							]
+						},
+						"noxred": {
+							"textures": [
+								"textures/block/nox/red_carpet"
+							]
+						},
+						"noxwhite": {
+							"textures": [
+								"textures/block/nox/white_carpet"
+							]
+						}
+					}
+				},
+				"key": "texture_data",
+				"children": [
+					{
+						"key": "chair1acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_acacia_log"
+							]
+						}
+					},
+					{
+						"key": "chair2acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_acacia_log"
+							]
+						}
+					},
+					{
+						"key": "chair3acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_acacia_log"
+							]
+						}
+					},
+					{
+						"key": "chair4acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/chair4acacia"
+							]
+						}
+					},
+					{
+						"key": "chair1birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_birch_log"
+							]
+						}
+					},
+					{
+						"key": "chair2birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_birch_log"
+							]
+						}
+					},
+					{
+						"key": "chair3birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_birch_log"
+							]
+						}
+					},
+					{
+						"key": "chair4birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/chair4birch"
+							]
+						}
+					},
+					{
+						"key": "chair1darkoak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_dark_oak_log"
+							]
+						}
+					},
+					{
+						"key": "chair2darkoak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_dark_oak_log"
+							]
+						}
+					},
+					{
+						"key": "chair3darkoak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_dark_oak_log"
+							]
+						}
+					},
+					{
+						"key": "chair4darkoak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/chair4darkoak"
+							]
+						}
+					},
+					{
+						"key": "chair1jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_jungle_log"
+							]
+						}
+					},
+					{
+						"key": "chair2jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_jungle_log"
+							]
+						}
+					},
+					{
+						"key": "chair3jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_jungle_log"
+							]
+						}
+					},
+					{
+						"key": "chair4jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/chair4jungle"
+							]
+						}
+					},
+					{
+						"key": "chair1oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_oak_log"
+							]
+						}
+					},
+					{
+						"key": "chair2oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_oak_log"
+							]
+						}
+					},
+					{
+						"key": "chair3oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_oak_log"
+							]
+						}
+					},
+					{
+						"key": "chair4oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/chair4oak"
+							]
+						}
+					},
+					{
+						"key": "chair1spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_spruce_log"
+							]
+						}
+					},
+					{
+						"key": "chair2spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_spruce_log"
+							]
+						}
+					},
+					{
+						"key": "chair3spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_spruce_log"
+							]
+						}
+					},
+					{
+						"key": "chair4spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/chair4spruce"
+							]
+						}
+					},
+					{
+						"key": "barstool1acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_acacia_log"
+							]
+						}
+					},
+					{
+						"key": "barstool2acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_acacia_log"
+							]
+						}
+					},
+					{
+						"key": "barstool3acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_acacia_log"
+							]
+						}
+					},
+					{
+						"key": "barstool4acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/barstool4acacia"
+							]
+						}
+					},
+					{
+						"key": "barstool1birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_birch_log"
+							]
+						}
+					},
+					{
+						"key": "barstool2birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_birch_log"
+							]
+						}
+					},
+					{
+						"key": "barstool3birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_birch_log"
+							]
+						}
+					},
+					{
+						"key": "barstool4birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/barstool4birch"
+							]
+						}
+					},
+					{
+						"key": "barstool1darkoak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_dark_oak_log"
+							]
+						}
+					},
+					{
+						"key": "barstool2darkoak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_dark_oak_log"
+							]
+						}
+					},
+					{
+						"key": "barstool3darkoak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_dark_oak_log"
+							]
+						}
+					},
+					{
+						"key": "barstool4darkoak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/barstool4darkoak"
+							]
+						}
+					},
+					{
+						"key": "barstool1jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_jungle_log"
+							]
+						}
+					},
+					{
+						"key": "barstool2jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_jungle_log"
+							]
+						}
+					},
+					{
+						"key": "barstool3jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_jungle_log"
+							]
+						}
+					},
+					{
+						"key": "barstool4jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/barstool4jungle"
+							]
+						}
+					},
+					{
+						"key": "barstool1oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_oak_log"
+							]
+						}
+					},
+					{
+						"key": "barstool2oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_oak_log"
+							]
+						}
+					},
+					{
+						"key": "barstool3oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_oak_log"
+							]
+						}
+					},
+					{
+						"key": "barstool4oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/barstool4oak"
+							]
+						}
+					},
+					{
+						"key": "barstool1spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_spruce_log"
+							]
+						}
+					},
+					{
+						"key": "barstool2spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_spruce_log"
+							]
+						}
+					},
+					{
+						"key": "barstool3spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/vanillaarchive/stripped_spruce_log"
+							]
+						}
+					},
+					{
+						"key": "barstool4spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/barstool4spruce"
+							]
+						}
+					},
+					{
+						"key": "counter_spruce1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/counter_spruce1"
+							]
+						}
+					},
+					{
+						"key": "counter_spruce2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/counter_spruce2"
+							]
+						}
+					},
+					{
+						"key": "counter_acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/counter_acacia"
+							]
+						}
+					},
+					{
+						"key": "counter_birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/counter_birch"
+							]
+						}
+					},
+					{
+						"key": "counter_dark",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/counter_dark"
+							]
+						}
+					},
+					{
+						"key": "counter_jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/counter_jungle"
+							]
+						}
+					},
+					{
+						"key": "counter_oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/counter_oak"
+							]
+						}
+					},
+					{
+						"key": "counter_spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/counter_spruce"
+							]
+						}
+					},
+					{
+						"key": "cabinet_acacia1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/cabinet_acacia1"
+							]
+						}
+					},
+					{
+						"key": "cabinet_birch1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/cabinet_birch1"
+							]
+						}
+					},
+					{
+						"key": "cabinet_dark1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/cabinet_dark1"
+							]
+						}
+					},
+					{
+						"key": "cabinet_jungle1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/cabinet_jungle1"
+							]
+						}
+					},
+					{
+						"key": "cabinet_oak1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/cabinet_oak1"
+							]
+						}
+					},
+					{
+						"key": "cabinet_spruce1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/cabinet_spruce1"
+							]
+						}
+					},
+					{
+						"key": "easel_acacia",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/block/easel_acacia"
+						}
+					},
+					{
+						"key": "utah_teapot",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/utah_teapot"
+							]
+						}
+					},
+					{
+						"key": "bohopillow_wicker",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bohopillow_wicker"
+							]
+						}
+					},
+					{
+						"key": "bohopillow_red",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bohopillow_red"
+							]
+						}
+					},
+					{
+						"key": "bohopillow_purple",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bohopillow_purple"
+							]
+						}
+					},
+					{
+						"key": "bohopillow_lime",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bohopillow_lime"
+							]
+						}
+					},
+					{
+						"key": "bohopillow_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bohopillow_blue"
+							]
+						}
+					},
+					{
+						"key": "bohopillow_pink",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bohopillow_pink"
+							]
+						}
+					},
+					{
+						"key": "drawers_acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/drawers_acacia"
+							]
+						}
+					},
+					{
+						"key": "drawers_birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/drawers_birch"
+							]
+						}
+					},
+					{
+						"key": "drawers_dark",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/drawers_dark"
+							]
+						}
+					},
+					{
+						"key": "drawers_jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/drawers_jungle"
+							]
+						}
+					},
+					{
+						"key": "drawers_oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/drawers_oak"
+							]
+						}
+					},
+					{
+						"key": "drawers_spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/drawers_spruce"
+							]
+						}
+					},
+					{
+						"key": "dresser_birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/dresser_birch"
+							]
+						}
+					},
+					{
+						"key": "gamerchair_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/gamerchair_blue"
+							]
+						}
+					},
+					{
+						"key": "shelf1_acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf1_acacia"
+							]
+						}
+					},
+					{
+						"key": "shelf1_birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf1_birch"
+							]
+						}
+					},
+					{
+						"key": "shelf1_dark",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf1_dark"
+							]
+						}
+					},
+					{
+						"key": "shelf1_jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf1_jungle"
+							]
+						}
+					},
+					{
+						"key": "shelf1_oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf1_oak"
+							]
+						}
+					},
+					{
+						"key": "shelf1_spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf1_spruce"
+							]
+						}
+					},
+					{
+						"key": "shelf2_acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf2_acacia"
+							]
+						}
+					},
+					{
+						"key": "shelf2_birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf2_birch"
+							]
+						}
+					},
+					{
+						"key": "shelf2_dark",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf2_dark"
+							]
+						}
+					},
+					{
+						"key": "shelf2_jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf2_jungle"
+							]
+						}
+					},
+					{
+						"key": "shelf2_oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf2_oak"
+							]
+						}
+					},
+					{
+						"key": "shelf2_spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf2_spruce"
+							]
+						}
+					},
+					{
+						"key": "shelf0_acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf0_acacia"
+							]
+						}
+					},
+					{
+						"key": "shelf0_birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf0_birch"
+							]
+						}
+					},
+					{
+						"key": "shelf0_dark",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf0_dark"
+							]
+						}
+					},
+					{
+						"key": "shelf0_jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf0_jungle"
+							]
+						}
+					},
+					{
+						"key": "shelf0_oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf0_oak"
+							]
+						}
+					},
+					{
+						"key": "shelf0_spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf0_spruce"
+							]
+						}
+					},
+					{
+						"key": "shelf0a_acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf0a_acacia"
+							]
+						}
+					},
+					{
+						"key": "shelf0b_acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf0b_acacia"
+							]
+						}
+					},
+					{
+						"key": "shelf0a_birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf0a_birch"
+							]
+						}
+					},
+					{
+						"key": "shelf0b_birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf0b_birch"
+							]
+						}
+					},
+					{
+						"key": "shelf0a_dark",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf0a_dark"
+							]
+						}
+					},
+					{
+						"key": "shelf0a_jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf0a_jungle"
+							]
+						}
+					},
+					{
+						"key": "shelf0a_oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf0a_oak"
+							]
+						}
+					},
+					{
+						"key": "shelf0a_spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/shelf0a_spruce"
+							]
+						}
+					},
+					{
+						"key": "grandclock",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/grandclock"
+							]
+						}
+					},
+					{
+						"key": "tallshelf_acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/tallshelf_acacia"
+							]
+						}
+					},
+					{
+						"key": "tallshelf_birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/tallshelf_birch"
+							]
+						}
+					},
+					{
+						"key": "tallshelf_dark",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/tallshelf_dark"
+							]
+						}
+					},
+					{
+						"key": "tallshelf_jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/tallshelf_jungle"
+							]
+						}
+					},
+					{
+						"key": "tallshelf_oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/tallshelf_oak"
+							]
+						}
+					},
+					{
+						"key": "tallshelf_spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/tallshelf_spruce"
+							]
+						}
+					},
+					{
+						"key": "clothesline",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/clothesline"
+							]
+						}
+					},
+					{
+						"key": "logbed_acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/logbed_acacia"
+							]
+						}
+					},
+					{
+						"key": "logbed_birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/logbed_birch"
+							]
+						}
+					},
+					{
+						"key": "logbed_dark",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/logbed_dark"
+							]
+						}
+					},
+					{
+						"key": "logbed_jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/logbed_jungle"
+							]
+						}
+					},
+					{
+						"key": "logbed_oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/logbed_oak"
+							]
+						}
+					},
+					{
+						"key": "logbed_spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/logbed_spruce"
+							]
+						}
+					},
+					{
+						"key": "tablecloth_black",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/plaidwool/plaid_black"
+							]
+						}
+					},
+					{
+						"key": "tablecloth_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/plaidwool/plaid_blue"
+							]
+						}
+					},
+					{
+						"key": "tablecloth_brown",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/plaidwool/plaid_brown"
+							]
+						}
+					},
+					{
+						"key": "windowseat_birch_black",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_birch_black"
+							]
+						}
+					},
+					{
+						"key": "windowseat_birch_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_birch_blue"
+							]
+						}
+					},
+					{
+						"key": "windowseat_birch_brown",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_birch_brown"
+							]
+						}
+					},
+					{
+						"key": "windowseat_birch_cyan",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_birch_cyan"
+							]
+						}
+					},
+					{
+						"key": "windowseat_birch_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_birch_gray"
+							]
+						}
+					},
+					{
+						"key": "windowseat_birch_green",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_birch_green"
+							]
+						}
+					},
+					{
+						"key": "windowseat_birch_light_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_birch_light_blue"
+							]
+						}
+					},
+					{
+						"key": "windowseat_birch_light_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_birch_light_gray"
+							]
+						}
+					},
+					{
+						"key": "windowseat_birch_lime",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_birch_lime"
+							]
+						}
+					},
+					{
+						"key": "windowseat_birch_magenta",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_birch_magenta"
+							]
+						}
+					},
+					{
+						"key": "windowseat_birch_orange",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_birch_orange"
+							]
+						}
+					},
+					{
+						"key": "windowseat_birch_pink",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_birch_pink"
+							]
+						}
+					},
+					{
+						"key": "windowseat_birch_purple",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_birch_purple"
+							]
+						}
+					},
+					{
+						"key": "windowseat_birch_red",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_birch_red"
+							]
+						}
+					},
+					{
+						"key": "windowseat_birch_white",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_birch_white"
+							]
+						}
+					},
+					{
+						"key": "windowseat_birch_yellow",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_birch_yellow"
+							]
+						}
+					},
+					{
+						"key": "tallcabinet_acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/tallcabinet_acacia"
+							]
+						}
+					},
+					{
+						"key": "tallcabinet_birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/tallcabinet_birch"
+							]
+						}
+					},
+					{
+						"key": "tallcabinet_jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/tallcabinet_jungle"
+							]
+						}
+					},
+					{
+						"key": "tallcabinet_oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/tallcabinet_oak"
+							]
+						}
+					},
+					{
+						"key": "tallcabinet_spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/tallcabinet_spruce"
+							]
+						}
+					},
+					{
+						"key": "bunkmatch_acacia",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bunkmatch_acacia"
+							]
+						}
+					},
+					{
+						"key": "bunkmatch_birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bunkmatch_birch"
+							]
+						}
+					},
+					{
+						"key": "bunkmatch_dark",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bunkmatch_dark"
+							]
+						}
+					},
+					{
+						"key": "bunkmatch_jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bunkmatch_jungle"
+							]
+						}
+					},
+					{
+						"key": "bunkmatch_oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bunkmatch_oak"
+							]
+						}
+					},
+					{
+						"key": "bunkmatch_spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bunkmatch_spruce"
+							]
+						}
+					},
+					{
+						"key": "windowseat_dark_black",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_dark_black"
+							]
+						}
+					},
+					{
+						"key": "windowseat_dark_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_dark_blue"
+							]
+						}
+					},
+					{
+						"key": "windowseat_dark_brown",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_dark_brown"
+							]
+						}
+					},
+					{
+						"key": "windowseat_dark_cyan",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_dark_cyan"
+							]
+						}
+					},
+					{
+						"key": "windowseat_dark_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_dark_gray"
+							]
+						}
+					},
+					{
+						"key": "windowseat_dark_green",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_dark_green"
+							]
+						}
+					},
+					{
+						"key": "windowseat_dark_light_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_dark_light_blue"
+							]
+						}
+					},
+					{
+						"key": "windowseat_dark_light_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_dark_light_gray"
+							]
+						}
+					},
+					{
+						"key": "windowseat_dark_lime",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_dark_lime"
+							]
+						}
+					},
+					{
+						"key": "windowseat_dark_magenta",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_dark_magenta"
+							]
+						}
+					},
+					{
+						"key": "windowseat_dark_orange",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_dark_orange"
+							]
+						}
+					},
+					{
+						"key": "windowseat_dark_pink",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_dark_pink"
+							]
+						}
+					},
+					{
+						"key": "windowseat_dark_purple",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_dark_purple"
+							]
+						}
+					},
+					{
+						"key": "windowseat_dark_red",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_dark_red"
+							]
+						}
+					},
+					{
+						"key": "windowseat_dark_white",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_dark_white"
+							]
+						}
+					},
+					{
+						"key": "windowseat_dark_yellow",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_dark_yellow"
+							]
+						}
+					},
+					{
+						"key": "windowseat_acacia_black",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_acacia_black"
+							]
+						}
+					},
+					{
+						"key": "windowseat_acacia_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_acacia_blue"
+							]
+						}
+					},
+					{
+						"key": "windowseat_acacia_cyan",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_acacia_cyan"
+							]
+						}
+					},
+					{
+						"key": "windowseat_acacia_brown",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_acacia_brown"
+							]
+						}
+					},
+					{
+						"key": "windowseat_acacia_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_acacia_gray"
+							]
+						}
+					},
+					{
+						"key": "windowseat_acacia_green",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_acacia_green"
+							]
+						}
+					},
+					{
+						"key": "windowseat_acacia_light_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_acacia_light_blue"
+							]
+						}
+					},
+					{
+						"key": "windowseat_acacia_light_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_acacia_light_gray"
+							]
+						}
+					},
+					{
+						"key": "windowseat_acacia_lime",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_acacia_lime"
+							]
+						}
+					},
+					{
+						"key": "windowseat_acacia_magenta",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_acacia_magenta"
+							]
+						}
+					},
+					{
+						"key": "windowseat_acacia_orange",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_acacia_orange"
+							]
+						}
+					},
+					{
+						"key": "windowseat_acacia_pink",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_acacia_pink"
+							]
+						}
+					},
+					{
+						"key": "windowseat_acacia_purple",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_acacia_purple"
+							]
+						}
+					},
+					{
+						"key": "windowseat_acacia_red",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_acacia_red"
+							]
+						}
+					},
+					{
+						"key": "windowseat_acacia_white",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_acacia_white"
+							]
+						}
+					},
+					{
+						"key": "windowseat_acacia_yellow",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_acacia_yellow"
+							]
+						}
+					},
+					{
+						"key": "windowseat_jungle_black",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_jungle_black"
+							]
+						}
+					},
+					{
+						"key": "windowseat_jungle_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_jungle_blue"
+							]
+						}
+					},
+					{
+						"key": "windowseat_jungle_cyan",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_jungle_cyan"
+							]
+						}
+					},
+					{
+						"key": "windowseat_jungle_brown",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_jungle_brown"
+							]
+						}
+					},
+					{
+						"key": "windowseat_jungle_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_jungle_gray"
+							]
+						}
+					},
+					{
+						"key": "windowseat_jungle_green",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_jungle_green"
+							]
+						}
+					},
+					{
+						"key": "windowseat_jungle_light_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_jungle_light_blue"
+							]
+						}
+					},
+					{
+						"key": "windowseat_jungle_light_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_jungle_light_gray"
+							]
+						}
+					},
+					{
+						"key": "windowseat_jungle_lime",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_jungle_lime"
+							]
+						}
+					},
+					{
+						"key": "windowseat_jungle_magenta",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_jungle_magenta"
+							]
+						}
+					},
+					{
+						"key": "windowseat_jungle_orange",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_jungle_orange"
+							]
+						}
+					},
+					{
+						"key": "windowseat_jungle_pink",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_jungle_pink"
+							]
+						}
+					},
+					{
+						"key": "windowseat_jungle_purple",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_jungle_purple"
+							]
+						}
+					},
+					{
+						"key": "windowseat_jungle_red",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_jungle_red"
+							]
+						}
+					},
+					{
+						"key": "windowseat_jungle_white",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_jungle_white"
+							]
+						}
+					},
+					{
+						"key": "windowseat_jungle_yellow",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_jungle_yellow"
+							]
+						}
+					},
+					{
+						"key": "windowseat_oak_black",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_oak_black"
+							]
+						}
+					},
+					{
+						"key": "windowseat_oak_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_oak_blue"
+							]
+						}
+					},
+					{
+						"key": "windowseat_oak_cyan",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_oak_cyan"
+							]
+						}
+					},
+					{
+						"key": "windowseat_oak_brown",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_oak_brown"
+							]
+						}
+					},
+					{
+						"key": "windowseat_oak_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_oak_gray"
+							]
+						}
+					},
+					{
+						"key": "windowseat_oak_green",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_oak_green"
+							]
+						}
+					},
+					{
+						"key": "windowseat_oak_light_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_oak_light_blue"
+							]
+						}
+					},
+					{
+						"key": "windowseat_oak_light_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_oak_light_gray"
+							]
+						}
+					},
+					{
+						"key": "windowseat_oak_lime",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_oak_lime"
+							]
+						}
+					},
+					{
+						"key": "windowseat_oak_magenta",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_oak_magenta"
+							]
+						}
+					},
+					{
+						"key": "windowseat_oak_orange",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_oak_orange"
+							]
+						}
+					},
+					{
+						"key": "windowseat_oak_pink",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_oak_pink"
+							]
+						}
+					},
+					{
+						"key": "windowseat_oak_purple",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_oak_purple"
+							]
+						}
+					},
+					{
+						"key": "windowseat_oak_red",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_oak_red"
+							]
+						}
+					},
+					{
+						"key": "windowseat_oak_white",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_oak_white"
+							]
+						}
+					},
+					{
+						"key": "windowseat_oak_yellow",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_oak_yellow"
+							]
+						}
+					},
+					{
+						"key": "windowseat_spruce_black",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_spruce_black"
+							]
+						}
+					},
+					{
+						"key": "windowseat_spruce_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_spruce_blue"
+							]
+						}
+					},
+					{
+						"key": "windowseat_spruce_brown",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_spruce_brown"
+							]
+						}
+					},
+					{
+						"key": "windowseat_spruce_cyan",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_spruce_cyan"
+							]
+						}
+					},
+					{
+						"key": "windowseat_spruce_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_spruce_gray"
+							]
+						}
+					},
+					{
+						"key": "windowseat_spruce_green",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_spruce_green"
+							]
+						}
+					},
+					{
+						"key": "windowseat_spruce_light_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_spruce_light_blue"
+							]
+						}
+					},
+					{
+						"key": "windowseat_spruce_light_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_spruce_light_gray"
+							]
+						}
+					},
+					{
+						"key": "windowseat_spruce_lime",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_spruce_lime"
+							]
+						}
+					},
+					{
+						"key": "windowseat_spruce_magenta",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_spruce_magenta"
+							]
+						}
+					},
+					{
+						"key": "windowseat_spruce_orange",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_spruce_orange"
+							]
+						}
+					},
+					{
+						"key": "windowseat_spruce_pink",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_spruce_pink"
+							]
+						}
+					},
+					{
+						"key": "windowseat_spruce_purple",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_spruce_purple"
+							]
+						}
+					},
+					{
+						"key": "windowseat_spruce_red",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_spruce_red"
+							]
+						}
+					},
+					{
+						"key": "windowseat_spruce_white",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_spruce_white"
+							]
+						}
+					},
+					{
+						"key": "windowseat_spruce_yellow",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/windowseat_spruce_yellow"
+							]
+						}
+					},
+					{
+						"key": "bed_iron_black",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bed_iron_black"
+							]
+						}
+					},
+					{
+						"key": "bed_iron_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bed_iron_blue"
+							]
+						}
+					},
+					{
+						"key": "bed_iron_brown",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bed_iron_brown"
+							]
+						}
+					},
+					{
+						"key": "bed_iron_cyan",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bed_iron_cyan"
+							]
+						}
+					},
+					{
+						"key": "bed_iron_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bed_iron_gray"
+							]
+						}
+					},
+					{
+						"key": "bed_iron_green",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bed_iron_green"
+							]
+						}
+					},
+					{
+						"key": "bed_iron_light_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bed_iron_light_blue"
+							]
+						}
+					},
+					{
+						"key": "bed_iron_light_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bed_iron_light_gray"
+							]
+						}
+					},
+					{
+						"key": "bed_iron_lime",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bed_iron_lime"
+							]
+						}
+					},
+					{
+						"key": "bed_iron_orange",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bed_iron_orange"
+							]
+						}
+					},
+					{
+						"key": "bed_iron_magenta",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bed_iron_magenta"
+							]
+						}
+					},
+					{
+						"key": "bed_iron_pink",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bed_iron_pink"
+							]
+						}
+					},
+					{
+						"key": "bed_iron_purple",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bed_iron_purple"
+							]
+						}
+					},
+					{
+						"key": "bed_iron_red",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bed_iron_red"
+							]
+						}
+					},
+					{
+						"key": "bed_iron_white",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bed_iron_white"
+							]
+						}
+					},
+					{
+						"key": "bed_iron_yellow",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/bed_iron_yellow"
+							]
+						}
+					},
+					{
+						"key": "easel_birch",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/easel_birch"
+							]
+						}
+					},
+					{
+						"key": "easel_dark",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/easel_dark"
+							]
+						}
+					},
+					{
+						"key": "easel_jungle",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/easel_jungle"
+							]
+						}
+					},
+					{
+						"key": "easel_oak",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/easel_oak"
+							]
+						}
+					},
+					{
+						"key": "easel_spruce",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/easel_spruce"
+							]
+						}
+					},
+					{
+						"key": "gardenbench",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/gardenbench"
+							]
+						}
+					},
+					{
+						"key": "pallete",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/pallete"
+							]
+						}
+					},
+					{
+						"key": "faerielights",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/faerielights"
+							]
+						}
+					},
+					{
+						"key": "canmatch_acacia_black",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/canmatch_acacia_black"
+							]
+						}
+					},
+					{
+						"key": "canmatch_acacia_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/canmatch_acacia_blue"
+							]
+						}
+					},
+					{
+						"key": "crib_black",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/crib_black"
+							]
+						}
+					},
+					{
+						"key": "crib_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/crib_blue"
+							]
+						}
+					},
+					{
+						"key": "crib_cyan",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/crib_cyan"
+							]
+						}
+					},
+					{
+						"key": "crib_brown",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/crib_brown"
+							]
+						}
+					},
+					{
+						"key": "crib_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/crib_gray"
+							]
+						}
+					},
+					{
+						"key": "crib_green",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/crib_green"
+							]
+						}
+					},
+					{
+						"key": "crib_lblue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/crib_lblue"
+							]
+						}
+					},
+					{
+						"key": "crib_lgray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/crib_lgray"
+							]
+						}
+					},
+					{
+						"key": "crib_lime",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/crib_lime"
+							]
+						}
+					},
+					{
+						"key": "crib_magenta",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/crib_magenta"
+							]
+						}
+					},
+					{
+						"key": "crib_orange",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/crib_orange"
+							]
+						}
+					},
+					{
+						"key": "crib_pink",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/crib_pink"
+							]
+						}
+					},
+					{
+						"key": "crib_purple",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/crib_purple"
+							]
+						}
+					},
+					{
+						"key": "crib_red",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/crib_red"
+							]
+						}
+					},
+					{
+						"key": "crib_white",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/crib_white"
+							]
+						}
+					},
+					{
+						"key": "crib_yellow",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/crib_yellow"
+							]
+						}
+					},
+					{
+						"key": "directorchair_black",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/directorchair_black"
+							]
+						}
+					},
+					{
+						"key": "directorchair_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/directorchair_blue"
+							]
+						}
+					},
+					{
+						"key": "directorchair_cyan",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/directorchair_cyan"
+							]
+						}
+					},
+					{
+						"key": "directorchair_brown",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/directorchair_brown"
+							]
+						}
+					},
+					{
+						"key": "directorchair_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/directorchair_gray"
+							]
+						}
+					},
+					{
+						"key": "directorchair_green",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/directorchair_green"
+							]
+						}
+					},
+					{
+						"key": "directorchair_light_blue",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/directorchair_light_blue"
+							]
+						}
+					},
+					{
+						"key": "directorchair_light_gray",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/directorchair_light_gray"
+							]
+						}
+					},
+					{
+						"key": "directorchair_lime",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/directorchair_lime"
+							]
+						}
+					},
+					{
+						"key": "directorchair_magenta",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/directorchair_magenta"
+							]
+						}
+					},
+					{
+						"key": "directorchair_orange",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/directorchair_orange"
+							]
+						}
+					},
+					{
+						"key": "directorchair_pink",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/directorchair_pink"
+							]
+						}
+					},
+					{
+						"key": "directorchair_purple",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/directorchair_purple"
+							]
+						}
+					},
+					{
+						"key": "directorchair_red",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/directorchair_red"
+							]
+						}
+					},
+					{
+						"key": "directorchair_white",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/directorchair_white"
+							]
+						}
+					},
+					{
+						"key": "directorchair_yellow",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/directorchair_yellow"
+							]
+						}
+					},
+					{
+						"key": "clothesline4",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/clothesline4"
+							]
+						}
+					},
+					{
+						"key": "sofa_black1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_black1"
+							]
+						}
+					},
+					{
+						"key": "sofa_blue1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_blue1"
+							]
+						}
+					},
+					{
+						"key": "sofa_cyan1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_cyan1"
+							]
+						}
+					},
+					{
+						"key": "sofa_brown1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_brown1"
+							]
+						}
+					},
+					{
+						"key": "sofa_gray1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_gray1"
+							]
+						}
+					},
+					{
+						"key": "sofa_green1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_green1"
+							]
+						}
+					},
+					{
+						"key": "sofa_lblue1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_lblue1"
+							]
+						}
+					},
+					{
+						"key": "sofa_lgray1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_lgray1"
+							]
+						}
+					},
+					{
+						"key": "sofa_lime1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_lime1"
+							]
+						}
+					},
+					{
+						"key": "sofa_magenta1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_magenta1"
+							]
+						}
+					},
+					{
+						"key": "sofa_orange1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_orange1"
+							]
+						}
+					},
+					{
+						"key": "sofa_pink1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_pink1"
+							]
+						}
+					},
+					{
+						"key": "sofa_purple1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_purple1"
+							]
+						}
+					},
+					{
+						"key": "sofa_red1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_red1"
+							]
+						}
+					},
+					{
+						"key": "sofa_white1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_white1"
+							]
+						}
+					},
+					{
+						"key": "sofa_yellow1",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_yellow1"
+							]
+						}
+					},
+					{
+						"key": "sofa_black2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_black2"
+							]
+						}
+					},
+					{
+						"key": "sofa_blue2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_blue2"
+							]
+						}
+					},
+					{
+						"key": "sofa_cyan2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_cyan2"
+							]
+						}
+					},
+					{
+						"key": "sofa_brown2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_brown2"
+							]
+						}
+					},
+					{
+						"key": "sofa_gray2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_gray2"
+							]
+						}
+					},
+					{
+						"key": "sofa_green2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_green2"
+							]
+						}
+					},
+					{
+						"key": "sofa_lblue2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_lblue2"
+							]
+						}
+					},
+					{
+						"key": "sofa_lgray2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_lgray2"
+							]
+						}
+					},
+					{
+						"key": "sofa_lime2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_lime2"
+							]
+						}
+					},
+					{
+						"key": "sofa_magenta2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_magenta2"
+							]
+						}
+					},
+					{
+						"key": "sofa_orange2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_orange2"
+							]
+						}
+					},
+					{
+						"key": "sofa_pink2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_pink2"
+							]
+						}
+					},
+					{
+						"key": "sofa_purple2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_purple2"
+							]
+						}
+					},
+					{
+						"key": "sofa_red2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_red2"
+							]
+						}
+					},
+					{
+						"key": "sofa_white2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_white2"
+							]
+						}
+					},
+					{
+						"key": "sofa_yellow2",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_yellow2"
+							]
+						}
+					},
+					{
+						"key": "sofa_black3",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_black3"
+							]
+						}
+					},
+					{
+						"key": "sofa_blue3",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_blue3"
+							]
+						}
+					},
+					{
+						"key": "sofa_cyan3",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_cyan3"
+							]
+						}
+					},
+					{
+						"key": "sofa_brown3",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_brown3"
+							]
+						}
+					},
+					{
+						"key": "sofa_gray3",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_gray3"
+							]
+						}
+					},
+					{
+						"key": "sofa_green3",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_green3"
+							]
+						}
+					},
+					{
+						"key": "sofa_lblue3",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_lblue3"
+							]
+						}
+					},
+					{
+						"key": "sofa_lgray3",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_lgray3"
+							]
+						}
+					},
+					{
+						"key": "sofa_lime3",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_lime3"
+							]
+						}
+					},
+					{
+						"key": "sofa_magenta3",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_magenta3"
+							]
+						}
+					},
+					{
+						"key": "sofa_orange3",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_orange3"
+							]
+						}
+					},
+					{
+						"key": "sofa_pink3",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_pink3"
+							]
+						}
+					},
+					{
+						"key": "sofa_purple3",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_purple3"
+							]
+						}
+					},
+					{
+						"key": "sofa_red3",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_red3"
+							]
+						}
+					},
+					{
+						"key": "sofa_white3",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_white3"
+							]
+						}
+					},
+					{
+						"key": "sofa_yellow3",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_yellow3"
+							]
+						}
+					},
+					{
+						"key": "sofa_black4",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_black4"
+							]
+						}
+					},
+					{
+						"key": "sofa_blue4",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_blue4"
+							]
+						}
+					},
+					{
+						"key": "sofa_cyan4",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_cyan4"
+							]
+						}
+					},
+					{
+						"key": "sofa_brown4",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_brown4"
+							]
+						}
+					},
+					{
+						"key": "sofa_gray4",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_gray4"
+							]
+						}
+					},
+					{
+						"key": "sofa_green4",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_green4"
+							]
+						}
+					},
+					{
+						"key": "sofa_lblue4",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_lblue4"
+							]
+						}
+					},
+					{
+						"key": "sofa_lgray4",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_lgray4"
+							]
+						}
+					},
+					{
+						"key": "sofa_lime4",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_lime4"
+							]
+						}
+					},
+					{
+						"key": "sofa_magenta4",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_magenta4"
+							]
+						}
+					},
+					{
+						"key": "sofa_orange4",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_orange4"
+							]
+						}
+					},
+					{
+						"key": "sofa_pink4",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_pink4"
+							]
+						}
+					},
+					{
+						"key": "sofa_purple4",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_purple4"
+							]
+						}
+					},
+					{
+						"key": "sofa_red4",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_red4"
+							]
+						}
+					},
+					{
+						"key": "sofa_white4",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_white4"
+							]
+						}
+					},
+					{
+						"key": "sofa_yellow4",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_yellow4"
+							]
+						}
+					},
+					{
+						"key": "sofa_black5",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_black5"
+							]
+						}
+					},
+					{
+						"key": "sofa_blue5",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_blue5"
+							]
+						}
+					},
+					{
+						"key": "sofa_cyan5",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_cyan5"
+							]
+						}
+					},
+					{
+						"key": "sofa_brown5",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_brown5"
+							]
+						}
+					},
+					{
+						"key": "sofa_gray5",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_gray5"
+							]
+						}
+					},
+					{
+						"key": "sofa_green5",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_green5"
+							]
+						}
+					},
+					{
+						"key": "sofa_lblue5",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_lblue5"
+							]
+						}
+					},
+					{
+						"key": "sofa_lgray5",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_lgray5"
+							]
+						}
+					},
+					{
+						"key": "sofa_lime5",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_lime5"
+							]
+						}
+					},
+					{
+						"key": "sofa_magenta5",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_magenta5"
+							]
+						}
+					},
+					{
+						"key": "sofa_orange5",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_orange5"
+							]
+						}
+					},
+					{
+						"key": "sofa_pink5",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_pink5"
+							]
+						}
+					},
+					{
+						"key": "sofa_purple5",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_purple5"
+							]
+						}
+					},
+					{
+						"key": "sofa_red5",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_red5"
+							]
+						}
+					},
+					{
+						"key": "sofa_white5",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_white5"
+							]
+						}
+					},
+					{
+						"key": "sofa_yellow5",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_yellow5"
+							]
+						}
+					},
+					{
+						"key": "sofa_black6",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_black6"
+							]
+						}
+					},
+					{
+						"key": "sofa_blue6",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_blue6"
+							]
+						}
+					},
+					{
+						"key": "sofa_cyan6",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_cyan6"
+							]
+						}
+					},
+					{
+						"key": "sofa_brown6",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_brown6"
+							]
+						}
+					},
+					{
+						"key": "sofa_gray6",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_gray6"
+							]
+						}
+					},
+					{
+						"key": "sofa_green6",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_green6"
+							]
+						}
+					},
+					{
+						"key": "sofa_lblue6",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_lblue6"
+							]
+						}
+					},
+					{
+						"key": "sofa_lgray6",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_lgray6"
+							]
+						}
+					},
+					{
+						"key": "sofa_lime6",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_lime6"
+							]
+						}
+					},
+					{
+						"key": "sofa_magenta6",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_magenta6"
+							]
+						}
+					},
+					{
+						"key": "sofa_orange6",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_orange6"
+							]
+						}
+					},
+					{
+						"key": "sofa_pink6",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_pink6"
+							]
+						}
+					},
+					{
+						"key": "sofa_purple6",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_purple6"
+							]
+						}
+					},
+					{
+						"key": "sofa_red6",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_red6"
+							]
+						}
+					},
+					{
+						"key": "sofa_white6",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_white6"
+							]
+						}
+					},
+					{
+						"key": "sofa_yellow6",
+						"is_minified": true,
+						"children": {
+							"textures": [
+								"textures/block/sofa_yellow6"
+							]
+						}
+					},
+					{
+						"key": "noxbrown",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/nox/brown_carpet"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/nox/brown_carpet"
+								]
+							}
+						]
+					},
+					{
+						"key": "noxgray",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/nox/gray_carpet"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/nox/gray_carpet"
+								]
+							}
+						]
+					},
+					{
+						"key": "noxlgray",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/nox/lgray_carpet"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/nox/lgray_carpet"
+								]
+							}
+						]
+					},
+					{
+						"key": "noxlime",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/nox/lime_carpet"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/nox/lime_carpet"
+								]
+							}
+						]
+					},
+					{
+						"key": "noxred",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/nox/red_carpet"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/nox/red_carpet"
+								]
+							}
+						]
+					},
+					{
+						"key": "noxwhite",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/block/nox/white_carpet"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/block/nox/white_carpet"
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}
