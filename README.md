@@ -1,3 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/YCpjzst.png"></p>
+<p align="center"><img src="https://i.imgur.com/gnKQCqh.png"></p>
 
-**Ghoulcraft BE** is an Add-On for **Minecraft**. This pack adds bunch of new blocks and items to use into your world as decorations!
+**Ghoulcraft BE** is an Add-On for **Minecraft**. This pack contains counters, drawers, chairs, beds, and many more. All furniture items in all wood types are included in this pack.
