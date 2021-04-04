@@ -86,7 +86,7 @@
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "bed_iron_light_gray",
-					"render_method": "blend"
+					"render_method": "opaque"
 				}
 			},
 			"minecraft:block_light_emission": 0,

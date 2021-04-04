@@ -62,7 +62,7 @@
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "barstool3darkoak",
-					"render_method": "blend"
+					"render_method": "opaque"
 				}
 			},
 			"minecraft:pick_collision": {

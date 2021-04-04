@@ -86,7 +86,7 @@
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "easel_oak",
-					"render_method": "blend"
+					"render_method": "opaque"
 				}
 			},
 			"minecraft:block_light_emission": 0,

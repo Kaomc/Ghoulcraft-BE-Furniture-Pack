@@ -62,7 +62,7 @@
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "barstool1jungle",
-					"render_method": "blend"
+					"render_method": "opaque"
 				}
 			},
 			"minecraft:pick_collision": {

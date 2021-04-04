@@ -1,4 +1,4 @@
-//bridge-file-version: #14
+//bridge-file-version: #15
 {
 	"minecraft:block": {
 		"description": {
@@ -6,7 +6,7 @@
 				"bridge:block_rotation": [
 					2,
 					3,
-					4,o
+					4,
 					5
 				]
 			},
@@ -62,7 +62,7 @@
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "barstool1acacia",
-					"render_method": "blend"
+					"render_method": "opaque"
 				}
 			},
 			"minecraft:pick_collision": {

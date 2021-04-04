@@ -61,7 +61,7 @@
 			"minecraft:geometry": "geometry.shelf0_spruce",
 			"minecraft:material_instances": {
 				"*": {
-					"render_method": "blend",
+					"render_method": "opaque",
 					"texture": "shelf0_spruce"
 				}
 			},

@@ -1,8 +1,8 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "[Furniture] Ghoulcraft BE xx-xx-xx",
-		"description": "§l§3Ignore the warning! §r- Version: xx-xx-xx",
+		"name": "[Furniture] Ghoulcraft BE Beta-Build 1.1a",
+		"description": "§l§3Delete the release version first! §r- Beta-Build: 1.1a",
 		"uuid": "72bf449e-6c4d-4b4f-a0f4-53c97bea15e4",
 		"version": [
 			2,
