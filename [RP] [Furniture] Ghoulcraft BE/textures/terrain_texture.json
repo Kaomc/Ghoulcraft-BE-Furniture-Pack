@@ -1,4 +1,4 @@
-//bridge-file-version: #88
+//bridge-file-version: #90
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.terrain",
@@ -1916,6 +1916,51 @@
 		"sofa_yellow6": {
 			"textures": [
 				"textures/block/sofa_yellow6"
+			]
+		},
+		"gamingchairblue": {
+			"textures": [
+				"textures/block/gamingchair_blue"
+			]
+		},
+		"gamingchairgreen": {
+			"textures": [
+				"textures/block/gamingchair_green"
+			]
+		},
+		"gamingchairred": {
+			"textures": [
+				"textures/block/gamingchair_red"
+			]
+		},
+		"gamingchairwhite": {
+			"textures": [
+				"textures/block/gamingchair_white"
+			]
+		},
+		"gamingchairpurple": {
+			"textures": [
+				"textures/block/gamingchair_purple"
+			]
+		},
+		"loungechair_white": {
+			"textures": [
+				"textures/block/loungechair_white"
+			]
+		},
+		"loungechair_green": {
+			"textures": [
+			    "textures/block/loungechair_green"
+			]
+		},
+		"hammock_blue": {
+			"textures": [
+			    "textures/block/hammock_blue"
+			]
+		},
+		"hammock_green": {
+			"textures": [
+				"textures/block/hammock_green"
 			]
 		}
 	}
