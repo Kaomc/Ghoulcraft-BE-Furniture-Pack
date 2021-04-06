@@ -1,5 +1,5 @@
-##bridge-file-version: #94
-###=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+##bridge-file-version: #95
+####=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ##Created By: Kao
 ##Contact: https://beacons.page/kaomc
 ##Translations needs express permission from MissGhouls/Kao.
@@ -562,3 +562,13 @@ tile.ghoulcraft:gamingchair_green.name=Green Gaming Chair
 tile.ghoulcraft:gamingchair_red.name=Red Gaming Chair
 tile.ghoulcraft:gamingchair_white.name=White Gaming Chair
 tile.ghoulcraft:gamingchair_purple.name=Purple Gaming Chair
+
+##Lounge Chairs
+
+tile.ghoulcraft:loungechair_green.name=Green Lounge Chair
+tile.ghoulcraft:loungechair_white.name=White Lounge Chair
+
+##Hammocks
+
+tile.ghoulcraft:hammock_blue.name=Blue Lounge Chair
+tile.ghoulcraft:hammock_green.name=Green Lounge Chair
