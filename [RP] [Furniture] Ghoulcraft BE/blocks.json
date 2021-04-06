@@ -1,4 +1,4 @@
-//bridge-file-version: #99
+//bridge-file-version: #101
 {
 	"format_version": [
 		1,
@@ -1260,6 +1260,33 @@
 		"sound": "wood"
 	},
 	"ghoulcraft:sofa_yellow6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:gamingchair_blue": {
+		"sound": "metal"
+	},
+	"ghoulcraft:gamingchair_green": {
+		"sound": "metal"
+	},
+	"ghoulcraft:gamingchair_purple": {
+		"sound": "metal"
+	},
+	"ghoulcraft:gamingchair_red": {
+		"sound": "metal"
+	},
+	"ghoulcraft:gamingchair_white": {
+		"sound": "metal"
+	},
+	"ghoulcraft:loungechair_white": {
+		"sound": "wood"
+	},
+	"ghoulcraft:loungechair_green": {
+		"sound": "wood"
+	},
+	"ghoulcraft:hammock_green": {
+		"sound": "wood"
+	},
+	"ghoulcraft:hammock_blue": {
 		"sound": "wood"
 	}
 }
