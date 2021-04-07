@@ -1288,5 +1288,20 @@
 	},
 	"ghoulcraft:hammock_blue": {
 		"sound": "wood"
+	},
+	"ghoulcraft:beachchair_blue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:beachchair_lblue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:beachchair_yellow": {
+		"sound": "wood"
+	},
+	"ghoulcraft:beachchair_lime": {
+		"sound": "wood"
+	},
+	"ghoulcraft:beachchair_pink": {
+		"sound": "wood"
 	}
 }
