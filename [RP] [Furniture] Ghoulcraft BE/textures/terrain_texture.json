@@ -1962,6 +1962,31 @@
 			"textures": [
 				"textures/block/hammock_green"
 			]
+		},
+		"beachchair_blue": {
+			"textures": [
+				"textures/block/beachchair_blue"
+			]
+		},
+		"beachchair_lblue": {
+			"textures": [
+				"textures/block/beachchair_lblue"
+			]
+		},
+		"beachchair_pink": {
+			"textures": [
+				"textures/block/beachchair_pink"
+			]
+		},
+		"beachchair_yellow": {
+			"textures": [
+				"textures/block/beachchair_yellow"
+			]
+		},
+		"beachchair_lime": {
+			"textures": [
+				"textures/block/beachchair_lime"
+			]
 		}
 	}
 }
