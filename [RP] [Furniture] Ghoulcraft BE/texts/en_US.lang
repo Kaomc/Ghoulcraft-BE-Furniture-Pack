@@ -1,4 +1,4 @@
-##bridge-file-version: #95
+##bridge-file-version: #96
 ####=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 ##Created By: Kao
 ##Contact: https://beacons.page/kaomc
@@ -572,3 +572,11 @@ tile.ghoulcraft:loungechair_white.name=White Lounge Chair
 
 tile.ghoulcraft:hammock_blue.name=Blue Lounge Chair
 tile.ghoulcraft:hammock_green.name=Green Lounge Chair
+
+##Beach Chairs
+
+tile.ghoulcraft:beachchair_blue.name=Blue Beach Chair
+tile.ghoulcraft:beachchair_lblue.name=Light Blue Beach Chair
+tile.ghoulcraft:beachchair_lime.name=Lime Beach Chair
+tile.ghoulcraft:beachchair_pink.name=Pink Beach Chair
+tile.ghoulcraft:beachchair_yellow.name=Yellow Beach Chair
