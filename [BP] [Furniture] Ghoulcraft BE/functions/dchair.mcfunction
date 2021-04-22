@@ -1,0 +1,17 @@
+gamerule sendcommandfeedback false
+give @s ghoulcraft:directorchair_black
+give @s ghoulcraft:directorchair_blue
+give @s ghoulcraft:directorchair_brown
+give @s ghoulcraft:directorchair_cyan
+give @s ghoulcraft:directorchair_green
+give @s ghoulcraft:directorchair_gray
+give @s ghoulcraft:directorchair_light_blue
+give @s ghoulcraft:directorchair_light_gray
+give @s ghoulcraft:directorchair_lime
+give @s ghoulcraft:directorchair_orange
+give @s ghoulcraft:directorchair_magenta
+give @s ghoulcraft:directorchair_pink
+give @s ghoulcraft:directorchair_purple
+give @s ghoulcraft:directorchair_red
+give @s ghoulcraft:directorchair_white
+give @s ghoulcraft:directorchair_yellow

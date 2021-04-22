@@ -1277,31 +1277,1444 @@
 	"ghoulcraft:gamingchair_white": {
 		"sound": "metal"
 	},
-	"ghoulcraft:loungechair_white": {
+	"ghoulcraft:sofa_corner_black1": {
 		"sound": "wood"
 	},
-	"ghoulcraft:loungechair_green": {
+	"ghoulcraft:sofa_corner_blue1": {
 		"sound": "wood"
 	},
-	"ghoulcraft:hammock_green": {
+	"ghoulcraft:sofa_corner_brown1": {
 		"sound": "wood"
 	},
-	"ghoulcraft:hammock_blue": {
+	"ghoulcraft:sofa_corner_cyan1": {
 		"sound": "wood"
 	},
-	"ghoulcraft:beachchair_blue": {
+	"ghoulcraft:sofa_corner_gray1": {
 		"sound": "wood"
 	},
-	"ghoulcraft:beachchair_lblue": {
+	"ghoulcraft:sofa_corner_green1": {
 		"sound": "wood"
 	},
-	"ghoulcraft:beachchair_yellow": {
+	"ghoulcraft:sofa_corner_lblue1": {
 		"sound": "wood"
 	},
-	"ghoulcraft:beachchair_lime": {
+	"ghoulcraft:sofa_corner_lgray1": {
 		"sound": "wood"
 	},
-	"ghoulcraft:beachchair_pink": {
+	"ghoulcraft:sofa_corner_lime1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_magenta1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_orange1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_pink1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_purple1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_red1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_white1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_yellow1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_black2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_blue2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_brown2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_cyan2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_gray2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_green2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_lblue2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_lgray2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_lime2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_magenta2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_orange2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_pink2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_purple2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_red2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_white2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_yellow2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_black3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_blue3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_brown3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_cyan3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_gray3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_green3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_lblue3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_lgray3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_lime3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_magenta3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_orange3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_pink3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_purple3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_red3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_white3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_yellow3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_black4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_blue4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_brown4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_cyan4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_gray4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_green4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_lblue4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_lgray4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_lime4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_magenta4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_orange4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_pink4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_purple4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_red4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_white4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_yellow4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_black5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_blue5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_brown5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_cyan5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_gray5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_green5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_lblue5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_lgray5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_lime5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_magenta5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_orange5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_pink5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_purple5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_red5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_white5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_yellow5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_black6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_blue6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_brown6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_cyan6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_gray6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_green6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_lblue6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_lgray6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_lime6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_magenta6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_orange6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_pink6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_purple6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_red6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_white6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_corner_yellow6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_black1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_blue1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_brown1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_cyan1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_gray1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_green1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_lblue1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_lgray1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_lime1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_magenta1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_orange1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_pink1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_purple1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_red1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_white1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_yellow1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_black2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_blue2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_brown2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_cyan2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_gray2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_green2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_lblue2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_lgray2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_lime2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_magenta2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_orange2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_pink2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_purple2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_red2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_white2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_yellow2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_black3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_blue3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_brown3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_cyan3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_gray3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_green3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_lblue3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_lgray3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_lime3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_magenta3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_orange3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_pink3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_purple3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_red3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_white3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_yellow3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_black4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_blue4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_brown4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_cyan4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_gray4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_green4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_lblue4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_lgray4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_lime4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_magenta4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_orange4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_pink4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_purple4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_red4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_white4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_yellow4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_black5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_blue5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_brown5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_cyan5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_gray5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_green5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_lblue5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_lgray5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_lime5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_magenta5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_orange5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_pink5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_purple5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_red5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_white5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_yellow5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_black6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_blue6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_brown6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_cyan6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_gray6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_green6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_lblue6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_lgray6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_lime6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_magenta6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_orange6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_pink6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_purple6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_red6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_white6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_left_yellow6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_black1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_blue1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_brown1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_cyan1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_gray1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_green1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_lblue1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_lgray1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_lime1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_magenta1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_orange1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_pink1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_purple1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_red1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_white1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_yellow1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_black2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_blue2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_brown2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_cyan2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_gray2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_green2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_lblue2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_lgray2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_lime2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_magenta2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_orange2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_pink2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_purple2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_red2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_white2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_yellow2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_black3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_blue3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_brown3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_cyan3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_gray3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_green3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_lblue3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_lgray3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_lime3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_magenta3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_orange3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_pink3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_purple3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_red3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_white3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_yellow3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_black4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_blue4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_brown4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_cyan4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_gray4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_green4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_lblue4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_lgray4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_lime4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_magenta4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_orange4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_pink4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_purple4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_red4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_white4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_yellow4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_black5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_blue5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_brown5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_cyan5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_gray5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_green5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_lblue5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_lgray5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_lime5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_magenta5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_orange5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_pink5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_purple5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_red5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_white5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_yellow5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_black6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_blue6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_brown6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_cyan6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_gray6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_green6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_lblue6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_lgray6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_lime6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_magenta6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_orange6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_pink6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_purple6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_red6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_white6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_mid_yellow6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_black1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_blue1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_brown1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_cyan1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_gray1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_green1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_lblue1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_lgray1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_lime1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_magenta1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_orange1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_pink1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_purple1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_red1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_white1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_yellow1": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_black2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_blue2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_brown2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_cyan2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_gray2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_green2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_lblue2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_lgray2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_lime2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_magenta2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_orange2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_pink2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_purple2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_red2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_white2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_yellow2": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_black3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_blue3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_brown3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_cyan3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_gray3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_green3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_lblue3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_lgray3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_lime3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_magenta3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_orange3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_pink3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_purple3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_red3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_white3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_yellow3": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_black4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_blue4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_brown4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_cyan4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_gray4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_green4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_lblue4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_lgray4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_lime4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_magenta4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_orange4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_pink4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_purple4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_red4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_white4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_yellow4": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_black5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_blue5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_brown5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_cyan5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_gray5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_green5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_lblue5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_lgray5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_lime5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_magenta5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_orange5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_pink5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_purple5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_red5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_white5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_yellow5": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_black6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_blue6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_brown6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_cyan6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_gray6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_green6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_lblue6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_lgray6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_lime6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_magenta6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_orange6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_pink6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_purple6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_red6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_white6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:sofa_right_yellow6": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_dark_black": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_dark_blue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_dark_brown": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_dark_cyan": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_dark_gray": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_dark_green": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_dark_light_blue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_dark_light_gray": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_dark_lime": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_dark_magenta": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_dark_orange": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_dark_pink": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_dark_purple": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_dark_red": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_dark_white": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_dark_yellow": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_oak_black": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_oak_blue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_oak_brown": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_oak_cyan": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_oak_gray": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_oak_green": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_oak_light_blue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_oak_light_gray": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_oak_lime": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_oak_magenta": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_oak_orange": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_oak_pink": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_oak_purple": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_oak_red": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_oak_white": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_oak_yellow": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_acacia_black": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_acacia_blue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_acacia_brown": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_acacia_cyan": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_acacia_gray": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_acacia_green": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_acacia_light_blue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_acacia_light_gray": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_acacia_lime": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_acacia_magenta": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_acacia_orange": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_acacia_pink": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_acacia_purple": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_acacia_red": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_acacia_white": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_acacia_yellow": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_jungle_black": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_jungle_blue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_jungle_brown": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_jungle_cyan": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_jungle_gray": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_jungle_green": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_jungle_light_blue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_jungle_light_gray": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_jungle_lime": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_jungle_magenta": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_jungle_orange": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_jungle_pink": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_jungle_purple": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_jungle_red": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_jungle_white": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_jungle_yellow": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_spruce_black": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_spruce_blue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_spruce_brown": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_spruce_cyan": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_spruce_gray": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_spruce_green": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_spruce_light_blue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_spruce_light_gray": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_spruce_lime": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_spruce_magenta": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_spruce_orange": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_spruce_pink": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_spruce_purple": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_spruce_red": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_spruce_white": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_spruce_yellow": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_birch_black": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_birch_blue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_birch_brown": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_birch_cyan": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_birch_gray": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_birch_green": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_birch_light_blue": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_birch_light_gray": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_birch_lime": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_birch_magenta": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_birch_orange": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_birch_pink": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_birch_purple": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_birch_red": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_birch_white": {
+		"sound": "wood"
+	},
+	"ghoulcraft:canmatch_birch_yellow": {
 		"sound": "wood"
 	}
 }

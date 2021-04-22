@@ -62,7 +62,7 @@
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "pallete",
-					"render_method": "opaque"
+					"render_method": "blend"
 				}
 			},
 			"minecraft:pick_collision": {
@@ -79,14 +79,14 @@
 			},
 			"minecraft:entity_collision": {
 				"origin": [
-					-7,
 					0,
-					-7
+					0,
+					0
 				],
 				"size": [
-					14,
-					1,
-					15
+					0,
+					0,
+					0
 				]
 			},
 			"minecraft:block_light_emission": 0,

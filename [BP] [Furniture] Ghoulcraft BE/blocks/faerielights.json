@@ -62,7 +62,7 @@
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "faerielights",
-					"render_method": "opaque"
+					"render_method": "blend"
 				}
 			},
 			"minecraft:pick_collision": {

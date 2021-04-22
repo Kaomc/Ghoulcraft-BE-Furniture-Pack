@@ -62,7 +62,7 @@
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "grandclock",
-					"render_method": "opaque"
+					"render_method": "alpha_test"
 				}
 			},
 			"minecraft:block_light_emission": 0,

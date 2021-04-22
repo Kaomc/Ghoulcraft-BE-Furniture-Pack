@@ -62,7 +62,7 @@
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "clothesline",
-					"render_method": "opaque"
+					"render_method": "alpha_test"
 				}
 			},
 			"minecraft:pick_collision": {

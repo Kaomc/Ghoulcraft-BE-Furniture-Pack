@@ -1,0 +1,17 @@
+gamerule sendcommandfeedback false
+give @s ghoulcraft:sofa_left_black2
+give @s ghoulcraft:sofa_left_blue2
+give @s ghoulcraft:sofa_left_brown2
+give @s ghoulcraft:sofa_left_cyan2
+give @s ghoulcraft:sofa_left_green2
+give @s ghoulcraft:sofa_left_gray2
+give @s ghoulcraft:sofa_left_lblue2
+give @s ghoulcraft:sofa_left_lgray2
+give @s ghoulcraft:sofa_left_lime2
+give @s ghoulcraft:sofa_left_orange2
+give @s ghoulcraft:sofa_left_magenta2
+give @s ghoulcraft:sofa_left_pink2
+give @s ghoulcraft:sofa_left_purple2
+give @s ghoulcraft:sofa_left_red2
+give @s ghoulcraft:sofa_left_white2
+give @s ghoulcraft:sofa_left_yellow2

@@ -1,0 +1,17 @@
+gamerule sendcommandfeedback false
+give @s ghoulcraft:canmatch_birch_black
+give @s ghoulcraft:canmatch_birch_blue
+give @s ghoulcraft:canmatch_birch_brown
+give @s ghoulcraft:canmatch_birch_cyan
+give @s ghoulcraft:canmatch_birch_green
+give @s ghoulcraft:canmatch_birch_gray
+give @s ghoulcraft:canmatch_birch_light_blue
+give @s ghoulcraft:canmatch_birch_light_gray
+give @s ghoulcraft:canmatch_birch_lime
+give @s ghoulcraft:canmatch_birch_orange
+give @s ghoulcraft:canmatch_birch_magenta
+give @s ghoulcraft:canmatch_birch_pink
+give @s ghoulcraft:canmatch_birch_purple
+give @s ghoulcraft:canmatch_birch_red
+give @s ghoulcraft:canmatch_birch_white
+give @s ghoulcraft:canmatch_birch_yellow

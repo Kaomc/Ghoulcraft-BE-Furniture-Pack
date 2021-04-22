@@ -10,7 +10,7 @@
 					5
 				]
 			},
-			"identifier": "ghoulcraft:sofa_gray6"
+			"identifier": "ghoulcraft:sofa_green6"
 		},
 		"permutations": [
 			{
@@ -61,7 +61,7 @@
 			"minecraft:geometry": "geometry.sofa_single",
 			"minecraft:material_instances": {
 				"*": {
-					"texture": "sofa_gray6",
+					"texture": "sofa_green6",
 					"render_method": "opaque"
 				}
 			},

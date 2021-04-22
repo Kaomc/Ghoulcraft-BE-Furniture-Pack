@@ -10,7 +10,7 @@
 					5
 				]
 			},
-			"identifier": "ghoulcraft:bunkmatch"
+			"identifier": "ghoulcraft:bunkmatch_spruce"
 		},
 		"permutations": [
 			{
@@ -58,7 +58,7 @@
 			"minecraft:on_player_placing": {
 				"event": "bridge:update_rotation"
 			},
-			"minecraft:geometry": "geometry.bunkmatch_spruce",
+			"minecraft:geometry": "geometry.bunkmatch",
 			"minecraft:pick_collision": {
 				"origin": [
 					-7,
@@ -73,14 +73,14 @@
 			},
 			"minecraft:entity_collision": {
 				"origin": [
-					-7,
 					0,
-					-7
+					0,
+					0
 				],
 				"size": [
-					14,
-					1,
-					15
+					0,
+					0,
+					0
 				]
 			},
 			"minecraft:material_instances": {
