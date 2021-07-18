@@ -1,2 +1,0 @@
-#bridge-file-version: #39
-give @s ghoulcraft:windowseat_dark_magenta
