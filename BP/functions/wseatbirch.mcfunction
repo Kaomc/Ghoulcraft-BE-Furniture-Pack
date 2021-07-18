@@ -1,0 +1,17 @@
+gamerule sendcommandfeedback false
+give @s ghoulcraft:windowseat_birch_black
+give @s ghoulcraft:windowseat_birch_blue
+give @s ghoulcraft:windowseat_birch_brown
+give @s ghoulcraft:windowseat_birch_cyan
+give @s ghoulcraft:windowseat_birch_green
+give @s ghoulcraft:windowseat_birch_gray
+give @s ghoulcraft:windowseat_birch_light_blue
+give @s ghoulcraft:windowseat_birch_light_gray
+give @s ghoulcraft:windowseat_birch_lime
+give @s ghoulcraft:windowseat_birch_orange
+give @s ghoulcraft:windowseat_birch_magenta
+give @s ghoulcraft:windowseat_birch_pink
+give @s ghoulcraft:windowseat_birch_purple
+give @s ghoulcraft:windowseat_birch_red
+give @s ghoulcraft:windowseat_birch_white
+give @s ghoulcraft:windowseat_birch_yellow

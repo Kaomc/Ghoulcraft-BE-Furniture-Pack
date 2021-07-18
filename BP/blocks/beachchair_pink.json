@@ -1,0 +1,44 @@
+{
+	"format_version": "1.16.220",
+	"minecraft:block": {
+		"description": {
+			"identifier": "ghoulcraft:beachchair_pink"
+		},
+		"components": {
+			"bridge:simple_geo": {
+				"geometry": "geometry.beachchair",
+				"render_method": "opaque",
+				"texture": "beachchair_pink"
+			},
+			"minecraft:pick_collision": {
+				"origin": [
+					-8,
+					0,
+					-8
+				],
+				"size": [
+					16,
+					7,
+					16
+				]
+			},
+			"minecraft:entity_collision": {
+				"origin": [
+					-8,
+					0,
+					-8
+				],
+				"size": [
+					16,
+					7,
+					16
+				]
+			},
+			"minecraft:block_light_emission": 0,
+			"minecraft:block_light_absorption": 0,
+			"bridge:rotate_y_on_place": {
+				"flip": true
+			}
+		}
+	}
+}

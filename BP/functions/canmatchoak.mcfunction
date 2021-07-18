@@ -1,0 +1,17 @@
+gamerule sendcommandfeedback false
+give @s ghoulcraft:canmatch_oak_black
+give @s ghoulcraft:canmatch_oak_blue
+give @s ghoulcraft:canmatch_oak_brown
+give @s ghoulcraft:canmatch_oak_cyan
+give @s ghoulcraft:canmatch_oak_green
+give @s ghoulcraft:canmatch_oak_gray
+give @s ghoulcraft:canmatch_oak_light_blue
+give @s ghoulcraft:canmatch_oak_light_gray
+give @s ghoulcraft:canmatch_oak_lime
+give @s ghoulcraft:canmatch_oak_orange
+give @s ghoulcraft:canmatch_oak_magenta
+give @s ghoulcraft:canmatch_oak_pink
+give @s ghoulcraft:canmatch_oak_purple
+give @s ghoulcraft:canmatch_oak_red
+give @s ghoulcraft:canmatch_oak_white
+give @s ghoulcraft:canmatch_oak_yellow

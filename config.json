@@ -1,0 +1,14 @@
+{
+	"type": "minecraftBedrock",
+	"packs": {
+		"behaviorPack": "./BP",
+		"resourcePack": "./RP"
+	},
+	"bridge": {
+		"v1CompatMode": true
+	},
+	"capabilities": [],
+	"namespace": "ghoulcraft",
+	"name": "[] [Furniture] Ghoulcraft BE",
+	"description": "§l§3Delete the release version first! §r- Beta-Build: 1.1a"
+}

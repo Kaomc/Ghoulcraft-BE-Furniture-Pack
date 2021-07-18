@@ -1,0 +1,17 @@
+gamerule sendcommandfeedback false
+give @s ghoulcraft:windowseat_oak_black
+give @s ghoulcraft:windowseat_oak_blue
+give @s ghoulcraft:windowseat_oak_brown
+give @s ghoulcraft:windowseat_oak_cyan
+give @s ghoulcraft:windowseat_oak_green
+give @s ghoulcraft:windowseat_oak_gray
+give @s ghoulcraft:windowseat_oak_light_blue
+give @s ghoulcraft:windowseat_oak_light_gray
+give @s ghoulcraft:windowseat_oak_lime
+give @s ghoulcraft:windowseat_oak_orange
+give @s ghoulcraft:windowseat_oak_magenta
+give @s ghoulcraft:windowseat_oak_pink
+give @s ghoulcraft:windowseat_oak_purple
+give @s ghoulcraft:windowseat_oak_red
+give @s ghoulcraft:windowseat_oak_white
+give @s ghoulcraft:windowseat_oak_yellow
