@@ -1,13 +1,13 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "[Furniture] Ghoulcraft BE Beta-Build 1.1a",
-		"description": "§l§3Delete the release version first! §r- Beta-Build: 1.1a",
+		"name": "[Furniture] Ghoulcraft BE Beta-Build 2.0",
+		"description": "§l§3Delete the release version first! §r- Beta-Build: 2.0",
 		"uuid": "72bf449e-6c4d-4b4f-a0f4-53c97bea15e4",
 		"version": [
 			2,
-			7,
-			21
+			0,
+			0
 		],
 		"min_engine_version": [
 			1,
@@ -21,8 +21,8 @@
 			"uuid": "bf92131b-d935-4434-b4be-4fb8d7d4136d",
 			"version": [
 				2,
-				7,
-				21
+				0,
+				0
 			]
 		}
 	],
@@ -30,8 +30,8 @@
 		{
 			"version": [
 				2,
-				7,
-				21
+				0,
+				0
 			],
 			"uuid": "57e80044-40ec-48d3-b36a-ab6c508b9d10"
 		}

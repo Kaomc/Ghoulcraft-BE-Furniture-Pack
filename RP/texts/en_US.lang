@@ -1,1 +1,563 @@
-{}
+##=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+##Created By: Kao
+##Contact: https://beacons.page/kaomc
+##Translations needs express permission from MissGhouls/Kao.
+##Do not redistribute & claim as your own.
+##Re-printing is not allowed.
+##For more info, refer to [Readme.txt] & [GhoulcraftTOU.txt]
+##=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+##Chairs
+
+tile.ghoulcraft:chair1acacia.name=Acacia Chair 1
+tile.ghoulcraft:chair2acacia.name=Acacia Chair 2
+tile.ghoulcraft:chair3acacia.name=Acacia Chair 3
+tile.ghoulcraft:chair4acacia.name=Acacia Chair 4
+
+tile.ghoulcraft:chair1birch.name=Birch Chair 1
+tile.ghoulcraft:chair2birch.name=Birch Chair 2
+tile.ghoulcraft:chair3birch.name=Birch Chair 3
+tile.ghoulcraft:chair4birch.name=Birch Chair 4
+
+tile.ghoulcraft:chair1darkoak.name=Dark Oak Chair 1
+tile.ghoulcraft:chair2darkoak.name=Dark Oak Chair 2
+tile.ghoulcraft:chair3darkoak.name=Dark Oak Chair 3
+tile.ghoulcraft:chair4darkoak.name=Dark Oak Chair 4
+
+tile.ghoulcraft:chair1jungle.name=Jungle Chair 1
+tile.ghoulcraft:chair2jungle.name=Jungle Chair 2
+tile.ghoulcraft:chair3jungle.name=Jungle Chair 3
+tile.ghoulcraft:chair4jungle.name=Jungle Chair 4
+
+tile.ghoulcraft:chair1oak.name=Oak Chair 1
+tile.ghoulcraft:chair2oak.name=Oak Chair 2
+tile.ghoulcraft:chair3oak.name=Oak Chair 3
+tile.ghoulcraft:chair4oak.name=Oak Chair 4
+
+tile.ghoulcraft:chair1spruce.name=Spruce Chair 1
+tile.ghoulcraft:chair2spruce.name=Spruce Chair 2
+tile.ghoulcraft:chair3spruce.name=Spruce Chair 3
+tile.ghoulcraft:chair4spruce.name=Spruce Chair 4
+
+##Barstools
+
+tile.ghoulcraft:barstool1acacia.name=Acacia Bar Stool 1
+tile.ghoulcraft:barstool2acacia.name=Acacia Bar Stool 2
+tile.ghoulcraft:barstool3acacia.name=Acacia Bar Stool 3
+tile.ghoulcraft:barstool4acacia.name=Acacia Bar Stool 4
+
+tile.ghoulcraft:barstool1birch.name=Birch Bar Stool 1
+tile.ghoulcraft:barstool2birch.name=Birch Bar Stool 2
+tile.ghoulcraft:barstool3birch.name=Birch Bar Stool 3
+tile.ghoulcraft:barstool4birch.name=Birch Bar Stool 4
+
+tile.ghoulcraft:barstool1darkoak.name=Dark Oak Bar Stool 1
+tile.ghoulcraft:barstool2darkoak.name=Dark Oak Bar Stool 2
+tile.ghoulcraft:barstool3darkoak.name=Dark Oak Bar Stool 3
+tile.ghoulcraft:barstool4darkoak.name=Dark Oak Bar Stool 4
+
+tile.ghoulcraft:barstool1jungle.name=Jungle Bar Stool 1
+tile.ghoulcraft:barstool2jungle.name=Jungle Bar Stool 2
+tile.ghoulcraft:barstool3jungle.name=Jungle Bar Stool 3
+tile.ghoulcraft:barstool4jungle.name=Jungle Bar Stool 4
+
+tile.ghoulcraft:barstool1oak.name=Oak Bar Stool 1
+tile.ghoulcraft:barstool2oak.name=Oak Bar Stool 2
+tile.ghoulcraft:barstool3oak.name=Oak Bar Stool 3
+tile.ghoulcraft:barstool4oak.name=Oak Bar Stool 4
+
+tile.ghoulcraft:barstool1spruce.name=Spruce Bar Stool 1
+tile.ghoulcraft:barstool2spruce.name=Spruce Bar Stool 2
+tile.ghoulcraft:barstool3spruce.name=Spruce Bar Stool 3
+tile.ghoulcraft:barstool4spruce.name=Spruce Bar Stool 4
+
+##Counters
+
+tile.ghoulcraft:counter_acacia1.name=Acacia Counter 1
+tile.ghoulcraft:counter_acacia2.name=Acacia Counter 2
+tile.ghoulcraft:counter_acacia3.name=Acacia Counter 3
+tile.ghoulcraft:counter_acacia4.name=Acacia Counter 4
+
+tile.ghoulcraft:counter_birch1.name=Birch Counter 1
+tile.ghoulcraft:counter_birch2.name=Birch Counter 2
+tile.ghoulcraft:counter_birch3.name=Birch Counter 3
+tile.ghoulcraft:counter_birch4.name=Birch Counter 4
+
+tile.ghoulcraft:counter_dark1.name=Dark Oak Counter 1
+tile.ghoulcraft:counter_dark2.name=Dark Oak Counter 2
+tile.ghoulcraft:counter_dark3.name=Dark Oak Counter 3
+tile.ghoulcraft:counter_dark4.name=Dark Oak Counter 4
+
+tile.ghoulcraft:counter_jungle1.name=Jungle Counter 1
+tile.ghoulcraft:counter_jungle2.name=Jungle Counter 2
+tile.ghoulcraft:counter_jungle3.name=Jungle Counter 3
+tile.ghoulcraft:counter_jungle4.name=Jungle Counter 4
+
+tile.ghoulcraft:counter_oak1.name=Oak Counter 1
+tile.ghoulcraft:counter_oak2.name=Oak Counter 2
+tile.ghoulcraft:counter_oak3.name=Oak Counter 3
+tile.ghoulcraft:counter_oak4.name=Oak Counter 4
+tile.ghoulcraft:counter_spruce1.name=Spruce Counter 1
+tile.ghoulcraft:counter_spruce2.name=Spruce Counter 2
+tile.ghoulcraft:counter_spruce3.name=Spruce Counter 3
+tile.ghoulcraft:counter_spruce4.name=Spruce Counter 4
+
+##Cabinets
+
+tile.ghoulcraft:cabinet_acacia1.name=Acacia Cabinet 1
+tile.ghoulcraft:cabinet_acacia1c.name=Acacia Cabinet 1 - Corner
+tile.ghoulcraft:cabinet_acacia2.name=Acacia Cabinet 2
+tile.ghoulcraft:cabinet_acacia2c.name=Acacia Cabinet 2 - Corner
+
+tile.ghoulcraft:cabinet_birch1.name=Birch Cabinet 1
+tile.ghoulcraft:cabinet_birch1c.name=Birch Cabinet 1 - Corner
+tile.ghoulcraft:cabinet_birch2.name=Birch Cabinet 2
+tile.ghoulcraft:cabinet_birch2c.name=Birch Cabinet 2 - Corner
+
+tile.ghoulcraft:cabinet_dark1.name=Dark Oak Cabinet 1
+tile.ghoulcraft:cabinet_dark1c.name=Dark Oak Cabinet 1 - Corner
+tile.ghoulcraft:cabinet_dark2.name=Dark Oak Cabinet 2
+tile.ghoulcraft:cabinet_dark2c.name=Dark Oak Cabinet 2 - Corner
+
+tile.ghoulcraft:cabinet_jungle1.name=Jungle Cabinet 1
+tile.ghoulcraft:cabinet_jungle1c.name=Jungle Cabinet 1 - Corner
+tile.ghoulcraft:cabinet_jungle2.name=Jungle Cabinet 2
+tile.ghoulcraft:cabinet_jungle2c.name=Jungle Cabinet 2 - Corner
+
+tile.ghoulcraft:cabinet_oak1.name=Oak Cabinet 1
+tile.ghoulcraft:cabinet_oak1c.name=Oak Cabinet 1 - Corner
+tile.ghoulcraft:cabinet_oak2.name=Oak Cabinet 2
+tile.ghoulcraft:cabinet_oak2c.name=Oak Cabinet 2 - Corner
+
+tile.ghoulcraft:cabinet_spruce1.name=Spruce Cabinet 1
+tile.ghoulcraft:cabinet_spruce1c.name=Spruce Cabinet 1 - Corner
+tile.ghoulcraft:cabinet_spruce2.name=Spruce Cabinet 2
+tile.ghoulcraft:cabinet_spruce2c.name=Spruce Cabinet 2 - Corner
+
+##Easels
+
+tile.ghoulcraft:easel_acacia.name=Acacia Easel
+tile.ghoulcraft:easel_birch.name=Birch Easel
+tile.ghoulcraft:easel_dark.name=Dark Oak Easel
+tile.ghoulcraft:easel_jungle.name=Jungle Easel
+tile.ghoulcraft:easel_oak.name=Oak Easel
+tile.ghoulcraft:easel_spruce.name=Spruce Easel
+
+##Utah Teapot
+
+tile.ghoulcraft:utah_teapot.name=Utah Teapot
+
+##Boho Pillows
+
+tile.ghoulcraft:bohopillow_red.name=Red Boho Pillow
+tile.ghoulcraft:bohopillow_wicker.name=Wicker Boho Pillow
+tile.ghoulcraft:bohopillow_purple.name=Purple Boho Pillow
+tile.ghoulcraft:bohopillow_lime.name=Lime Boho Pillow
+tile.ghoulcraft:bohopillow_blue.name=Blue Boho Pillow
+tile.ghoulcraft:bohopillow_pink.name=Pink Boho Pillow
+
+##Drawers
+
+tile.ghoulcraft:drawers_acacia.name=Acacia Drawer
+tile.ghoulcraft:drawers_birch.name=Birch Drawer
+tile.ghoulcraft:drawers_dark.name=Dark Oak Drawer
+tile.ghoulcraft:drawers_jungle.name=Jungle Drawer
+tile.ghoulcraft:drawers_oak.name=Oak Drawer
+tile.ghoulcraft:drawers_spruce.name=Spruce Drawer
+
+##Dressers
+
+tile.ghoulcraft:dresser_acacia.name=Acacia Dresser
+tile.ghoulcraft:dresser_birch.name=Birch Dresser
+tile.ghoulcraft:dresser_dark.name=Dark Oak Dresser
+tile.ghoulcraft:dresser_jungle.name=Jungle Dresser
+tile.ghoulcraft:dresser_oak.name=Oak Dresser
+tile.ghoulcraft:dresser_spruce.name=Spruce Dresser
+
+##Shelves
+
+tile.ghoulcraft:shelf0_acacia.name=Acacia Shelf - 0
+tile.ghoulcraft:shelf0_birch.name=Birch Shelf - 0
+tile.ghoulcraft:shelf0_dark.name=Dark Oak Shelf - 0
+tile.ghoulcraft:shelf0_jungle.name=Jungle Shelf - 0
+tile.ghoulcraft:shelf0_oak.name=Oak Shelf - 0
+tile.ghoulcraft:shelf0_spruce.name=Spruce Shelf - 0
+
+tile.ghoulcraft:shelf0a_acacia.name=Acacia Shelf - 0a
+tile.ghoulcraft:shelf0a_birch.name=Birch Shelf - 0a
+tile.ghoulcraft:shelf0a_dark.name=Dark Oak Shelf - 0a
+tile.ghoulcraft:shelf0a_jungle.name=Jungle Shelf - 0a
+tile.ghoulcraft:shelf0a_oak.name=Oak Shelf - 0a
+tile.ghoulcraft:shelf0a_spruce.name=Spruce Shelf - 0a
+
+tile.ghoulcraft:shelf0b_acacia.name=Acacia Shelf - 0b
+tile.ghoulcraft:shelf0b_birch.name=Birch Shelf - 0b
+
+tile.ghoulcraft:shelf1_acacia.name=Acacia Shelf - 1
+tile.ghoulcraft:shelf1_birch.name=Birch Shelf - 1
+tile.ghoulcraft:shelf1_dark.name=Dark Oak Shelf - 1
+tile.ghoulcraft:shelf1_jungle.name=Jungle Shelf - 1
+tile.ghoulcraft:shelf1_oak.name=Oak Shelf - 1
+tile.ghoulcraft:shelf1_spruce.name=Spruce Shelf - 1
+
+tile.ghoulcraft:shelf2_acacia.name=Acacia Shelf - 2
+tile.ghoulcraft:shelf2_birch.name=Birch Shelf - 2
+tile.ghoulcraft:shelf2_dark.name=Dark Oak Shelf - 2
+tile.ghoulcraft:shelf2_jungle.name=Jungle Shelf - 2
+tile.ghoulcraft:shelf2_oak.name=Oak Shelf - 2
+tile.ghoulcraft:shelf2_spruce.name=Spruce Shelf - 2
+
+##Grandclock
+
+tile.ghoulcraft:grandclock.name=Grandfather Clock
+
+##Tall Cabinets
+
+tile.ghoulcraft:tallcabinet_lacacia.name=Acacia Tall Cabinet - Left
+tile.ghoulcraft:tallcabinet_lbirch.name=Birch Tall Cabinet - Left
+tile.ghoulcraft:tallcabinet_ldark.name=Dark Oak Tall Cabinet - Left
+tile.ghoulcraft:tallcabinet_ljungle.name=Jungle Tall Cabinet - Left
+tile.ghoulcraft:tallcabinet_loak.name=Oak Tall Cabinet - Left
+tile.ghoulcraft:tallcabinet_lspruce.name=Spruce Tall Cabinet - Left
+
+tile.ghoulcraft:tallcabinet_racacia.name=Acacia Tall Cabinet - Right
+tile.ghoulcraft:tallcabinet_rbirch.name=Birch Tall Cabinet - Right
+tile.ghoulcraft:tallcabinet_rdark.name=Dark Oak Tall Cabinet - Right
+tile.ghoulcraft:tallcabinet_rjungle.name=Jungle Tall Cabinet - Right
+tile.ghoulcraft:tallcabinet_roak.name=Oak Tall Cabinet - Right
+tile.ghoulcraft:tallcabinet_rspruce.name=Spruce Tall Cabinet - Right
+
+##Tall Shelves
+
+tile.ghoulcraft:tallshelf_acacia.name=Acacia Tall Shelf
+tile.ghoulcraft:tallshelf_birch.name=Birch Tall Shelf
+tile.ghoulcraft:tallshelf_dark.name=Dark Oak Tall Shelf
+tile.ghoulcraft:tallshelf_jungle.name=Jungle Tall Shelf
+tile.ghoulcraft:tallshelf_oak.name=Oak Tall Shelf
+tile.ghoulcraft:tallshelf_spruce.name=Spruce Tall Shelf
+
+##Clotheslines
+
+tile.ghoulcraft:clothesline1.name=Clothes Line 1
+tile.ghoulcraft:clothesline2.name=Clothes Line 2
+tile.ghoulcraft:clothesline3.name=Clothes Line 3
+tile.ghoulcraft:clothesline4.name=Clothes Line 4
+
+##Log Bedframes
+
+tile.ghoulcraft:logbed_acacia.name=Acacia Log Bed Frame
+tile.ghoulcraft:logbed_birch.name=Birch Log Bed Frame
+tile.ghoulcraft:logbed_dark.name=Dark Oak Log Bed Frame
+tile.ghoulcraft:logbed_jungle.name=Jungle Log Bed Frame
+tile.ghoulcraft:logbed_oak.name=Oak Log Bed Frame
+tile.ghoulcraft:logbed_spruce.name=Spruce Log Bed Frame
+
+##Tablecloths
+
+tile.ghoulcraft:tablecloth_black.name=Black Tablecloth
+tile.ghoulcraft:tablecloth_blue.name=Blue Tablecloth
+tile.ghoulcraft:tablecloth_brown.name=Brown Tablecloth
+
+##Windowseats
+
+tile.ghoulcraft:windowseat_birch_black.name=Black Birch Windowseat
+tile.ghoulcraft:windowseat_birch_blue.name=Blue Birch Windowseat
+tile.ghoulcraft:windowseat_birch_brown.name=Brown Birch Windowseat
+tile.ghoulcraft:windowseat_birch_cyan.name=Cyan Birch Windowseat
+tile.ghoulcraft:windowseat_birch_gray.name=Gray Birch Windowseat
+tile.ghoulcraft:windowseat_birch_green.name=Green Birch Windowseat
+tile.ghoulcraft:windowseat_birch_light_blue.name=Light Blue Birch Windowseat
+tile.ghoulcraft:windowseat_birch_light_gray.name=Light Gray Birch Windowseat
+tile.ghoulcraft:windowseat_birch_lime.name=Lime Birch Windowseat
+tile.ghoulcraft:windowseat_birch_magenta.name=Magenta Birch Windowseat
+tile.ghoulcraft:windowseat_birch_pink.name=Pink Birch Windowseat
+tile.ghoulcraft:windowseat_birch_orange.name=Orange Birch Windowseat
+tile.ghoulcraft:windowseat_birch_purple.name=Purple Birch Windowseat
+tile.ghoulcraft:windowseat_birch_red.name=Red Birch Windowseat
+tile.ghoulcraft:windowseat_birch_white.name=White Birch Windowseat
+tile.ghoulcraft:windowseat_birch_yellow.name=Yellow Birch Windowseat
+
+tile.ghoulcraft:windowseat_acacia_black.name=Black Acacia Windowseat
+tile.ghoulcraft:windowseat_acacia_blue.name=Blue Acacia Windowseat
+tile.ghoulcraft:windowseat_acacia_brown.name=Brown Acacia Windowseat
+tile.ghoulcraft:windowseat_acacia_cyan.name=Cyan Acacia Windowseat
+tile.ghoulcraft:windowseat_acacia_gray.name=Gray Acacia Windowseat
+tile.ghoulcraft:windowseat_acacia_green.name=Green Acacia Windowseat
+tile.ghoulcraft:windowseat_acacia_light_blue.name=Light Blue Acacia Windowseat
+tile.ghoulcraft:windowseat_acacia_light_gray.name=Light Gray Acacia Windowseat
+tile.ghoulcraft:windowseat_acacia_lime.name=Lime Acacia Windowseat
+tile.ghoulcraft:windowseat_acacia_magenta.name=Magenta Acacia Windowseat
+tile.ghoulcraft:windowseat_acacia_pink.name=Pink Acacia Windowseat
+tile.ghoulcraft:windowseat_acacia_orange.name=Orange Acacia Windowseat
+tile.ghoulcraft:windowseat_acacia_purple.name=Purple Acacia Windowseat
+tile.ghoulcraft:windowseat_acacia_red.name=Red Acacia Windowseat
+tile.ghoulcraft:windowseat_acacia_white.name=White Acacia Windowseat
+tile.ghoulcraft:windowseat_acacia_yellow.name=Yellow Acacia Windowseat
+
+tile.ghoulcraft:windowseat_jungle_black.name=Black Jungle Windowseat
+tile.ghoulcraft:windowseat_jungle_blue.name=Blue Jungle Windowseat
+tile.ghoulcraft:windowseat_jungle_brown.name=Brown Jungle Windowseat
+tile.ghoulcraft:windowseat_jungle_cyan.name=Cyan Jungle Windowseat
+tile.ghoulcraft:windowseat_jungle_gray.name=Gray Jungle Windowseat
+tile.ghoulcraft:windowseat_jungle_green.name=Green Jungle Windowseat
+tile.ghoulcraft:windowseat_jungle_light_blue.name=Light Blue Jungle Windowseat
+tile.ghoulcraft:windowseat_jungle_light_gray.name=Light Gray Jungle Windowseat
+tile.ghoulcraft:windowseat_jungle_lime.name=Lime Jungle Windowseat
+tile.ghoulcraft:windowseat_jungle_magenta.name=Magenta Jungle Windowseat
+tile.ghoulcraft:windowseat_jungle_pink.name=Pink Jungle Windowseat
+tile.ghoulcraft:windowseat_jungle_orange.name=Orange Jungle Windowseat
+tile.ghoulcraft:windowseat_jungle_purple.name=Purple Jungle Windowseat
+tile.ghoulcraft:windowseat_jungle_red.name=Red Jungle Windowseat
+tile.ghoulcraft:windowseat_jungle_white.name=White Jungle Windowseat
+tile.ghoulcraft:windowseat_jungle_yellow.name=Yellow Jungle Windowseat
+
+tile.ghoulcraft:windowseat_dark_black.name=Black Dark Oak Windowseat
+tile.ghoulcraft:windowseat_dark_blue.name=Blue Dark Oak Windowseat
+tile.ghoulcraft:windowseat_dark_brown.name=Brown Dark Oak Windowseat
+tile.ghoulcraft:windowseat_dark_cyan.name=Cyan Dark Oak Windowseat
+tile.ghoulcraft:windowseat_dark_gray.name=Gray Dark Oak Windowseat
+tile.ghoulcraft:windowseat_dark_green.name=Green Dark Oak Windowseat
+tile.ghoulcraft:windowseat_dark_light_blue.name=Light Blue Dark Oak Windowseat
+tile.ghoulcraft:windowseat_dark_light_gray.name=Light Gray Dark Oak Windowseat
+tile.ghoulcraft:windowseat_dark_lime.name=Lime Dark Oak Windowseat
+tile.ghoulcraft:windowseat_dark_magenta.name=Magenta Dark Oak Windowseat
+tile.ghoulcraft:windowseat_dark_pink.name=Pink Dark Oak Windowseat
+tile.ghoulcraft:windowseat_dark_orange.name=Orange Dark Oak Windowseat
+tile.ghoulcraft:windowseat_dark_purple.name=Purple Dark Oak Windowseat
+tile.ghoulcraft:windowseat_dark_red.name=Red Dark Oak Windowseat
+tile.ghoulcraft:windowseat_dark_white.name=White Dark Oak Windowseat
+tile.ghoulcraft:windowseat_dark_yellow.name=Yellow Dark Oak Windowseat
+
+tile.ghoulcraft:windowseat_oak_black.name=Black Oak Windowseat
+tile.ghoulcraft:windowseat_oak_blue.name=Blue Oak Windowseat
+tile.ghoulcraft:windowseat_oak_brown.name=Brown Oak Windowseat
+tile.ghoulcraft:windowseat_oak_cyan.name=Cyan Oak Windowseat
+tile.ghoulcraft:windowseat_oak_gray.name=Gray Oak Windowseat
+tile.ghoulcraft:windowseat_oak_green.name=Green Oak Windowseat
+tile.ghoulcraft:windowseat_oak_light_blue.name=Light Blue Oak Windowseat
+tile.ghoulcraft:windowseat_oak_light_gray.name=Light Gray Oak Windowseat
+tile.ghoulcraft:windowseat_oak_lime.name=Lime Oak Windowseat
+tile.ghoulcraft:windowseat_oak_magenta.name=Magenta Oak Windowseat
+tile.ghoulcraft:windowseat_oak_pink.name=Pink Oak Windowseat
+tile.ghoulcraft:windowseat_oak_orange.name=Orange Oak Windowseat
+tile.ghoulcraft:windowseat_oak_purple.name=Purple Oak Windowseat
+tile.ghoulcraft:windowseat_oak_red.name=Red Oak Windowseat
+tile.ghoulcraft:windowseat_oak_white.name=White Oak Windowseat
+tile.ghoulcraft:windowseat_oak_yellow.name=Yellow Oak Windowseat
+
+tile.ghoulcraft:windowseat_spruce_black.name=Black Spruce Windowseat
+tile.ghoulcraft:windowseat_spruce_blue.name=Blue Spruce Windowseat
+tile.ghoulcraft:windowseat_spruce_brown.name=Brown Spruce Windowseat
+tile.ghoulcraft:windowseat_spruce_cyan.name=Cyan Spruce Windowseat
+tile.ghoulcraft:windowseat_spruce_gray.name=Gray Spruce Windowseat
+tile.ghoulcraft:windowseat_spruce_green.name=Green Spruce Windowseat
+tile.ghoulcraft:windowseat_spruce_light_blue.name=Light Blue Spruce Windowseat
+tile.ghoulcraft:windowseat_spruce_light_gray.name=Light Gray Spruce Windowseat
+tile.ghoulcraft:windowseat_spruce_lime.name=Lime Spruce Windowseat
+tile.ghoulcraft:windowseat_spruce_magenta.name=Magenta Spruce Windowseat
+tile.ghoulcraft:windowseat_spruce_pink.name=Pink Spruce Windowseat
+tile.ghoulcraft:windowseat_spruce_orange.name=Orange Spruce Windowseat
+tile.ghoulcraft:windowseat_spruce_purple.name=Purple Spruce Windowseat
+tile.ghoulcraft:windowseat_spruce_red.name=Red Spruce Windowseat
+tile.ghoulcraft:windowseat_spruce_white.name=White Spruce Windowseat
+tile.ghoulcraft:windowseat_spruce_yellow.name=Yellow Spruce Windowseat
+
+##Bedframes
+
+tile.ghoulcraft:bunkmatch_acacia.name=Acacia Bed Frame
+tile.ghoulcraft:bunkmatch_birch.name=Birch Bed Frame
+tile.ghoulcraft:bunkmatch_dark.name=Dark Oak Bed Frame
+tile.ghoulcraft:bunkmatch_jungle.name=Jungle Bed Frame
+tile.ghoulcraft:bunkmatch_oak.name=Oak Bed Frame
+tile.ghoulcraft:bunkmatch_spruce.name=Spruce Bed Frame
+
+##Iron Bedframes
+
+tile.ghoulcraft:bed_iron_black.name=Black Iron Bed Frame
+tile.ghoulcraft:bed_iron_blue.name=Blue Iron Bed Frame
+tile.ghoulcraft:bed_iron_brown.name=Brown Iron Bed Frame
+tile.ghoulcraft:bed_iron_cyan.name=Cyan Iron Bed Frame
+tile.ghoulcraft:bed_iron_gray.name=Gray Iron Bed Frame
+tile.ghoulcraft:bed_iron_green.name=Green Iron Bed Frame
+tile.ghoulcraft:bed_iron_light_blue.name=Light Blue Iron Bed Frame
+tile.ghoulcraft:bed_iron_light_gray.name=Light Gray Iron Bed Frame
+tile.ghoulcraft:bed_iron_lime.name=Lime Iron Bed Frame
+tile.ghoulcraft:bed_iron_magenta.name=Magenta Iron Bed Frame
+tile.ghoulcraft:bed_iron_pink.name=Pink Iron Bed Frame
+tile.ghoulcraft:bed_iron_orange.name=Orange Iron Bed Frame
+tile.ghoulcraft:bed_iron_purple.name=Purple Iron Bed Frame
+tile.ghoulcraft:bed_iron_red.name=Red Iron Bed Frame
+tile.ghoulcraft:bed_iron_white.name=White Iron Bed Frame
+tile.ghoulcraft:bed_iron_yellow.name=Yellow Iron Bed Frame
+
+##Bunk Bedframes
+
+tile.ghoulcraft:bunkbed_acacia.name=Acacia Bunk Bed Frame
+tile.ghoulcraft:bunkbed_birch.name=Birch BunkBed Frame
+tile.ghoulcraft:bunkbed_dark.name=Dark Oak Bunk Bed Frame
+tile.ghoulcraft:bunkbed_jungle.name=Jungle Bunk Bed Frame
+tile.ghoulcraft:bunkbed_oak.name=Oak Bed Bunk Frame
+tile.ghoulcraft:bunkbed_spruce.name=Spruce Bunk Bed Frame
+
+##Paint Palette
+
+tile.ghoulcraft:palette.name=Paint Palette
+
+##Faerie Lights
+
+tile.ghoulcraft:faerielights.name=Faerie Lights
+
+##Canopy Match
+
+tile.ghoulcraft:canmatch_acacia_black.name=Black Frameless-Canopy Bed Frame
+tile.ghoulcraft:canmatch_acacia_blue.name=Blue Frameless-Canopy Bed Frame
+
+##Director Chairs
+
+tile.ghoulcraft:directorchair_black.name=Black Director Chair
+tile.ghoulcraft:directorchair_blue.name=Blue Director Chair
+tile.ghoulcraft:directorchair_brown.name=Brown Director Chair
+tile.ghoulcraft:directorchair_cyan.name=Cyan Director Chair
+tile.ghoulcraft:directorchair_gray.name=Gray Director Chair
+tile.ghoulcraft:directorchair_green.name=Green Director Chair
+tile.ghoulcraft:directorchair_light_blue.name=Light Blue Director Chair
+tile.ghoulcraft:directorchair_light_gray.name=Light Gray Director Chair
+tile.ghoulcraft:directorchair_lime.name=Lime Director Chair
+tile.ghoulcraft:directorchair_magenta.name=Magenta Director Chair
+tile.ghoulcraft:directorchair_pink.name=Pink Director Chair
+tile.ghoulcraft:directorchair_orange.name=Orange Director Chair
+tile.ghoulcraft:directorchair_purple.name=Purple Director Chair
+tile.ghoulcraft:directorchair_red.name=Red Director Chair
+tile.ghoulcraft:directorchair_white.name=White Director Chair
+tile.ghoulcraft:directorchair_yellow.name=Yellow Director Chair
+
+##Cribs
+
+tile.ghoulcraft:crib_black.name=Black Crib
+tile.ghoulcraft:crib_blue.name=Blue Crib
+tile.ghoulcraft:crib_brown.name=Brown Crib
+tile.ghoulcraft:crib_cyan.name=Cyan Crib
+tile.ghoulcraft:crib_gray.name=Gray Crib
+tile.ghoulcraft:crib_green.name=Green Crib
+tile.ghoulcraft:crib_lblue.name=Light Blue Crib
+tile.ghoulcraft:crib_lgray.name=Light Gray Crib
+tile.ghoulcraft:crib_lime.name=Lime Crib
+tile.ghoulcraft:crib_magenta.name=Magenta Crib
+tile.ghoulcraft:crib_pink.name=Pink Crib
+tile.ghoulcraft:crib_orange.name=Orange Crib
+tile.ghoulcraft:crib_purple.name=Purple Crib
+tile.ghoulcraft:crib_red.name=Red Crib
+tile.ghoulcraft:crib_white.name=White Crib
+tile.ghoulcraft:crib_yellow.name=Yellow Crib
+
+##Single Sofas
+
+tile.ghoulcraft:sofa_black1.name=Black Acacia Single Sofa
+tile.ghoulcraft:sofa_blue1.name=Blue Acacia Single Sofa
+tile.ghoulcraft:sofa_brown1.name=Brown Acacia Single Sofa
+tile.ghoulcraft:sofa_cyan1.name=Cyan Acacia Single Sofa
+tile.ghoulcraft:sofa_gray1.name=Gray Acacia Single Sofa
+tile.ghoulcraft:sofa_green1.name=Green Acacia Single Sofa
+tile.ghoulcraft:sofa_lblue1.name=Light Blue Acacia Single Sofa
+tile.ghoulcraft:sofa_lgray1.name=Light Gray Acacia Single Sofa
+tile.ghoulcraft:sofa_lime1.name=Lime Acacia Single Sofa
+tile.ghoulcraft:sofa_magenta1.name=Magenta Acacia Single Sofa
+tile.ghoulcraft:sofa_pink1.name=Pink Acacia Single Sofa
+tile.ghoulcraft:sofa_orange1.name=Orange Acacia Single Sofa
+tile.ghoulcraft:sofa_purple1.name=Purple Acacia Single Sofa
+tile.ghoulcraft:sofa_red1.name=Red Acacia Single Sofa
+tile.ghoulcraft:sofa_white1.name=White Acacia Single Sofa
+tile.ghoulcraft:sofa_yellow1.name=Yellow Acacia Single Sofa
+
+tile.ghoulcraft:sofa_black2.name=Black Birch Single Sofa
+tile.ghoulcraft:sofa_blue2.name=Blue Birch Single Sofa
+tile.ghoulcraft:sofa_brown2.name=Brown Birch Single Sofa
+tile.ghoulcraft:sofa_cyan2.name=Cyan Birch Single Sofa
+tile.ghoulcraft:sofa_gray2.name=Gray Birch Single Sofa
+tile.ghoulcraft:sofa_green2.name=Green Birch Single Sofa
+tile.ghoulcraft:sofa_lblue2.name=Light Blue Birch Single Sofa
+tile.ghoulcraft:sofa_lgray2.name=Light Gray Birch Single Sofa
+tile.ghoulcraft:sofa_lime2.name=Lime Birch Single Sofa
+tile.ghoulcraft:sofa_magenta2.name=Magenta Birch Single Sofa
+tile.ghoulcraft:sofa_pink2.name=Pink Birch Single Sofa
+tile.ghoulcraft:sofa_orange2.name=Orange Birch Single Sofa
+tile.ghoulcraft:sofa_purple2.name=Purple Birch Single Sofa
+tile.ghoulcraft:sofa_red2.name=Red Birch Single Sofa
+tile.ghoulcraft:sofa_white2.name=White Birch Single Sofa
+tile.ghoulcraft:sofa_yellow2.name=Yellow Birch Single Sofa
+
+tile.ghoulcraft:sofa_black3.name=Black Dark Oak Single Sofa
+tile.ghoulcraft:sofa_blue3.name=Blue Dark Oak Single Sofa
+tile.ghoulcraft:sofa_brown3.name=Brown Dark Oak Single Sofa
+tile.ghoulcraft:sofa_cyan3.name=Cyan Dark Oak Single Sofa
+tile.ghoulcraft:sofa_gray3.name=Gray Dark Oak Single Sofa
+tile.ghoulcraft:sofa_green3.name=Green Dark Oak Single Sofa
+tile.ghoulcraft:sofa_lblue3.name=Light Blue Dark Oak Single Sofa
+tile.ghoulcraft:sofa_lgray3.name=Light Gray Dark Oak Single Sofa
+tile.ghoulcraft:sofa_lime3.name=Lime Dark Oak Single Sofa
+tile.ghoulcraft:sofa_magenta3.name=Magenta Dark Oak Single Sofa
+tile.ghoulcraft:sofa_pink3.name=Pink Dark Oak Single Sofa
+tile.ghoulcraft:sofa_orange3.name=Orange Dark Oak Single Sofa
+tile.ghoulcraft:sofa_purple3.name=Purple Dark Oak Single Sofa
+tile.ghoulcraft:sofa_red3.name=Red Dark Oak Single Sofa
+tile.ghoulcraft:sofa_white3.name=White Dark Oak Single Sofa
+tile.ghoulcraft:sofa_yellow3.name=Yellow Dark Oak Single Sofa
+
+tile.ghoulcraft:sofa_black4.name=Black Jungle Single Sofa
+tile.ghoulcraft:sofa_blue4.name=Blue Jungle Single Sofa
+tile.ghoulcraft:sofa_brown4.name=Brown Jungle Single Sofa
+tile.ghoulcraft:sofa_cyan4.name=Cyan Jungle Single Sofa
+tile.ghoulcraft:sofa_gray4.name=Gray Jungle Single Sofa
+tile.ghoulcraft:sofa_green4.name=Green Jungle Single Sofa
+tile.ghoulcraft:sofa_lblue4.name=Light Blue Jungle Single Sofa
+tile.ghoulcraft:sofa_lgray4.name=Light Gray Jungle Single Sofa
+tile.ghoulcraft:sofa_lime4.name=Lime Jungle Single Sofa
+tile.ghoulcraft:sofa_magenta4.name=Magenta Jungle Single Sofa
+tile.ghoulcraft:sofa_pink4.name=Pink Jungle Single Sofa
+tile.ghoulcraft:sofa_orange4.name=Orange Jungle Single Sofa
+tile.ghoulcraft:sofa_purple4.name=Purple Jungle Single Sofa
+tile.ghoulcraft:sofa_red4.name=Red Jungle Single Sofa
+tile.ghoulcraft:sofa_white4.name=White Jungle Single Sofa
+tile.ghoulcraft:sofa_yellow4.name=Yellow Jungle Single Sofa
+
+tile.ghoulcraft:sofa_black5.name=Black Oak Single Sofa
+tile.ghoulcraft:sofa_blue5.name=Blue Oak Single Sofa
+tile.ghoulcraft:sofa_brown5.name=Brown Oak Single Sofa
+tile.ghoulcraft:sofa_cyan5.name=Cyan Oak Single Sofa
+tile.ghoulcraft:sofa_gray5.name=Gray Oak Single Sofa
+tile.ghoulcraft:sofa_green5.name=Green Oak Single Sofa
+tile.ghoulcraft:sofa_lblue5.name=Light Blue Oak Single Sofa
+tile.ghoulcraft:sofa_lgray5.name=Light Gray Oak Single Sofa
+tile.ghoulcraft:sofa_lime5.name=Lime Oak Single Sofa
+tile.ghoulcraft:sofa_magenta5.name=Magenta Oak Single Sofa
+tile.ghoulcraft:sofa_pink5.name=Pink Oak Single Sofa
+tile.ghoulcraft:sofa_orange5.name=Orange Oak Single Sofa
+tile.ghoulcraft:sofa_purple5.name=Purple Oak Single Sofa
+tile.ghoulcraft:sofa_red5.name=Red Oak Single Sofa
+tile.ghoulcraft:sofa_white5.name=White Oak Single Sofa
+tile.ghoulcraft:sofa_yellow5.name=Yellow Oak Single Sofa
+
+tile.ghoulcraft:sofa_black6.name=Black Spruce Single Sofa
+tile.ghoulcraft:sofa_blue6.name=Blue Spruce Single Sofa
+tile.ghoulcraft:sofa_brown6.name=Brown Spruce Single Sofa
+tile.ghoulcraft:sofa_cyan6.name=Cyan Spruce Single Sofa
+tile.ghoulcraft:sofa_gray6.name=Gray Spruce Single Sofa
+tile.ghoulcraft:sofa_green6.name=Green Spruce Single Sofa
+tile.ghoulcraft:sofa_lblue6.name=Light Blue Spruce Single Sofa
+tile.ghoulcraft:sofa_lgray6.name=Light Gray Spruce Single Sofa
+tile.ghoulcraft:sofa_lime6.name=Lime Spruce Single Sofa
+tile.ghoulcraft:sofa_magenta6.name=Magenta Spruce Single Sofa
+tile.ghoulcraft:sofa_pink6.name=Pink Spruce Single Sofa
+tile.ghoulcraft:sofa_orange6.name=Orange Spruce Single Sofa
+tile.ghoulcraft:sofa_purple6.name=Purple Spruce Single Sofa
+tile.ghoulcraft:sofa_red6.name=Red Spruce Single Sofa
+tile.ghoulcraft:sofa_white6.name=White Spruce Single Sofa
+tile.ghoulcraft:sofa_yellow6.name=Yellow Spruce Single Sofa
+
+##Gaming Chairs
+
+tile.ghoulcraft:gamingchair_blue.name=Blue Gaming Chair
+tile.ghoulcraft:gamingchair_green.name=Green Gaming Chair
+tile.ghoulcraft:gamingchair_red.name=Red Gaming Chair
+tile.ghoulcraft:gamingchair_white.name=White Gaming Chair
+tile.ghoulcraft:gamingchair_purple.name=Purple Gaming Chair
