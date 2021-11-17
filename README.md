@@ -1,3 +1,5 @@
+# 🔴 This project is no longer maintained
+
 <p align="left"><img src="https://i.imgur.com/gnKQCqh.png"></p>
 
 # Ghoulcraft BE ~ Furniture Pack
