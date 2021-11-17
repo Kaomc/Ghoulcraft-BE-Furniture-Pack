@@ -1,6 +1,6 @@
-Ghoulcraft BE ~ [Furniture] Pack Beta-Build 1.1a
+Ghoulcraft BE ~ [Furniture] Pack v2.0-Alpha
 
-[Furniture] Ghoulcraft BE Beta-Build 1.1a
+[Furniture] Ghoulcraft BE v2.0-Alpha
 
 Resolution: 16x
 Bedrock Version Support: 1.16.200+
@@ -8,14 +8,14 @@ Creator: MissGhouls
 Porter: Kao
 Website: https://ghoulcraft.com/
 
-Last Updated: 02/07/21
+Last Updated: 11/18/21
 
 ------------------------------
 
 This Resource Pack is intended to be used alongside Mizunos 16 Craft
 resource pack.
 
-Please direct any issues, complaints, questions or suggestions to: 
+NOTICE: The support for Ghoulcraft BE has been ceased and is no longer available. (GEN #1)
 
 [JAVA]
 @MissGhouls (Twitter)
@@ -25,7 +25,7 @@ https://www.planetminecraft.com/member/missghouls/
 [BEDROCK/POCKET]
 @kaomc_ (Twitter)
 @kaomc_ (Tumblr)
-https://discord.gg/3QSE4mDqQd
+https://discord.gg/3QSE4mDqQd (ARCHIVED)
 
 ------------------------------
 
